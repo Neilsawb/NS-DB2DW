@@ -11,8 +11,8 @@
   DTS:LocaleID="2057"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="14"
-  DTS:VersionGUID="{B3FF28EC-E702-4B29-9C30-594D576411BF}">
+  DTS:VersionBuild="18"
+  DTS:VersionGUID="{09878EFC-A930-4A90-AAD5-1B7B0FAF806F}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -27,7 +27,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2JOriuk+YEaNFP0gjA6QqwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADuDsIwwPOzwHPdFzwoGaPlNmTsGqvCSS1NrtxFSSwNZgAAAAAOgAAAAAIAACAAAABl9cCn8y9js4MaDAD77h6vTQ0cPYPa3uzE6spiirCY/iAAAAD3g5EosH3p2GbX7XYxXbOt+m0yodh8qcaMfli/rtuJekAAAAB5xi3C3O3anQ/DffeDDzaeGCAnFA3dLPecWQOSP6wIFvZriklaMiHCAu8T5ebqC8gbCw41fVTsVxl5yF09GJrH</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2JOriuk+YEaNFP0gjA6QqwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACGBm7quPZpKmhyVR6L/x+PjT3VmCY8UXZ7lEGtYfUQ1wAAAAAOgAAAAAIAACAAAADQslhOenSwLQaOqCcJcMzRFdA9MBPwFzI68vLMXzc0aCAAAAD/POpOb+3/4lYE+Rel12/zXZHkPBZM9Z/B5RU1MGknxEAAAAB4QKy3Emm8naANoPLBN6JDBxs4NwXbQjl0EMnZodgksaEqonxLMT39LJFtFvSWSNarXRZ104FIgtrGM52pHPZk</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -42,7 +42,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2JOriuk+YEaNFP0gjA6QqwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB6ead0JV+6Lfu9plQ7AbkZ8kDtKqMLzjq2WAq/X7wsXAAAAAAOgAAAAAIAACAAAACK6Hqw1HFR4vPbmwG0djU2jxDD4yFgFWeP57vlWcqGfyAAAACX9NpWw/IJ8zFMPgmNRTnGYyTZlKbxIazwhDoP2XAmxkAAAADx/ZHaHaoy6Y3PkPAI3HY8cEqU86c40eyml062F/zYOHyhPuDNj5a8iU1Ohg31BkpaPUgITDDbkE6Nt8KQDPA7</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2JOriuk+YEaNFP0gjA6QqwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADf9G/kxzCKXUsAa6rKNMhozBVr8l+s75robOkgg8ZguQAAAAAOgAAAAAIAACAAAAB3w0xWhC5rXRSs+BiDUg9ekoIBzOTU7UQl2KLZAm7cVCAAAABg5uy2f4RKddbSP9k++KS7vijdPxABogEvmVi/Ly+7ckAAAABi4WQmCjMdgY06+GbDHV3xJyBY7A83RXywVwgJwXKxBIyRqFlem9IA3522sFwC/sKWT/5+7pBxwfWQOHbAX0yu</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -57,7 +57,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2JOriuk+YEaNFP0gjA6QqwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA9/+DCx1E2nCvbFQ7Imc7w7kCt6JYCSfwuBzXeSWEJqQAAAAAOgAAAAAIAACAAAADJWDyvSMqEgcBMP1Auh3u/kWDYhEn0CVGKon5hk/oD5iAAAADGDXulkXdt/WbfRTBFLK+BVmd0tONw61jKwCM7zq5ijkAAAABO/y+7vuysUVswsFSiyVYChiZhUi6eubk9PgQNdU+TZsFFgjaYHl3cHARv68/NU/x7sd2hDDt+0MYkIdYRNxJw</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2JOriuk+YEaNFP0gjA6QqwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACM8vQhhO16j9yhLno5SO+xX5gA1OvJRRMQXp8coDus+QAAAAAOgAAAAAIAACAAAABZiAtZxLT88znQ6qUVmDRd9twXbx2h7RYTjLw5x3Z4lSAAAABwqHtYtSU6Kgk7t0C3YqlZfncSLZRGzrag2FDJ5e06fUAAAABfmm0yJZgWBJUhBndP7Xbn3BPZxkLStlKnPukiZ9iffTBdGukJ1eDxzFVVcBIqOcJoYu+x9zBapr/MTVtLnM2w</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -72,7 +72,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2JOriuk+YEaNFP0gjA6QqwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADdIj1B4/oo5qq5fF2Lk790+ob1TWZX5pihuFyikSQPWgAAAAAOgAAAAAIAACAAAACvJf6lk1iEKWOboyzVETObfhHO2IFkK7y4lLRZpekryiAAAACYlphkRH8AT6Hh4b9YJk7Ez7bS3heG/pneUGPBZvtofEAAAACZ3MDP67XhhTdl0qc2wsVWsvVk3GU4an6iSrhDlWB86BwlNrwgRqF2zq/cu+1YQ8jgPjW7hdIWjR29BD8mQ/rf</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2JOriuk+YEaNFP0gjA6QqwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADunty3StBE3joIfkIJ5ncn38GLCNhQn/pThAjkU/9+3wAAAAAOgAAAAAIAACAAAACMfVdfYqczUeMrdcoaSUHbHEGJQZ2kYk9jfkMkup3vfSAAAAAefTLY6076S6xCR9tjFPY424/LuU7mO0Rukj0zUfjjZ0AAAADcPq9gIfiFKrj8Hr1O0bE/Vw1gLnPTRZ7YZqj0ab3mGWRQrMbNDB0V3djXfP0cove4pMIlEbNjVyHcEEWTjyDm</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -93,7 +93,7 @@
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{8AD035E4-81A6-4547-A57C-7F6B1249AB3E}"
-          SQLTask:SqlStatementSource="DELETE FROM FactDhtMeasurements&#xA;DBCC CHECKIDENT ('FactDhtMeasurements' ,RESEED,1)&#xA;&#xA;DELETE FROM DimDevice&#xA;DELETE FROM DimTemperatureAlert&#xA;DELETE FROM DimDateTime" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="DELETE FROM FactDhtMeasurements&#xA;DBCC CHECKIDENT ('FactDhtMeasurements' ,RESEED,1)&#xA;&#xA;DELETE FROM DimDevice&#xA;DELETE FROM DimTemperatureAlert&#xA;DELETE FROM DimDateTime&#xA;DELETE FROM DimGeoLocation" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -638,15 +638,6 @@
                       name="DeviceTypeId"
                       truncationRowDisposition="FailComponent" />
                     <outputColumn
-                      refId="Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Output].Columns[GeoLocationId]"
-                      dataType="i8"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Output].ExternalColumns[GeoLocationId]"
-                      lineageId="Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Output].Columns[GeoLocationId]"
-                      name="GeoLocationId"
-                      truncationRowDisposition="FailComponent" />
-                    <outputColumn
                       refId="Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Output].Columns[ModelId]"
                       dataType="i4"
                       errorOrTruncationOperation="Conversion"
@@ -654,6 +645,15 @@
                       externalMetadataColumnId="Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Output].ExternalColumns[ModelId]"
                       lineageId="Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Output].Columns[ModelId]"
                       name="ModelId"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Output].Columns[GeoLocationId]"
+                      dataType="i8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Output].ExternalColumns[GeoLocationId]"
+                      lineageId="Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Output].Columns[GeoLocationId]"
+                      name="GeoLocationId"
                       truncationRowDisposition="FailComponent" />
                   </outputColumns>
                   <externalMetadataColumns
@@ -703,11 +703,6 @@
                       lineageId="Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Error Output].Columns[DeviceTypeId]"
                       name="DeviceTypeId" />
                     <outputColumn
-                      refId="Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Error Output].Columns[GeoLocationId]"
-                      dataType="i8"
-                      lineageId="Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Error Output].Columns[GeoLocationId]"
-                      name="GeoLocationId" />
-                    <outputColumn
                       refId="Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Error Output].Columns[ModelId]"
                       dataType="i4"
                       lineageId="Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Error Output].Columns[ModelId]"
@@ -724,6 +719,11 @@
                       lineageId="Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
                       name="ErrorColumn"
                       specialFlags="2" />
+                    <outputColumn
+                      refId="Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Error Output].Columns[GeoLocationId]"
+                      dataType="i8"
+                      lineageId="Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Error Output].Columns[GeoLocationId]"
+                      name="GeoLocationId" />
                   </outputColumns>
                   <externalMetadataColumns />
                 </output>
@@ -1129,154 +1129,6 @@
               </outputs>
             </component>
             <component
-              refId="Package\Populate DimDevice\GeoLocations"
-              componentClassID="Microsoft.OLEDBSource"
-              contactInfo="OLE DB Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;7"
-              description="OLE DB Source"
-              name="GeoLocations"
-              usesDispositions="true"
-              version="7">
-              <properties>
-                <property
-                  dataType="System.Int32"
-                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
-                  name="CommandTimeout">0</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies the name of the database object used to open a rowset."
-                  name="OpenRowset">[dbo].[GeoLocations]</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies the variable that contains the name of the database object used to open a rowset."
-                  name="OpenRowsetVariable"></property>
-                <property
-                  dataType="System.String"
-                  description="The SQL command to be executed."
-                  name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
-                <property
-                  dataType="System.String"
-                  description="The variable that contains the SQL command to be executed."
-                  name="SqlCommandVariable"></property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the column code page to use when code page information is unavailable from the data source."
-                  name="DefaultCodePage">1252</property>
-                <property
-                  dataType="System.Boolean"
-                  description="Forces the use of the DefaultCodePage property value when describing character data."
-                  name="AlwaysUseDefaultCodePage">false</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the mode used to access the database."
-                  name="AccessMode"
-                  typeConverter="AccessMode">0</property>
-                <property
-                  dataType="System.String"
-                  description="The mappings between the parameters in the SQL command and variables."
-                  name="ParameterMapping"></property>
-              </properties>
-              <connections>
-                <connection
-                  refId="Package\Populate DimDevice\GeoLocations.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[ns-bigd.database.windows.net.Neils-BIGDATA.amir]"
-                  connectionManagerRefId="Package.ConnectionManagers[ns-bigd.database.windows.net.Neils-BIGDATA.amir]"
-                  description="The OLE DB runtime connection used to access the database."
-                  name="OleDbConnection" />
-              </connections>
-              <outputs>
-                <output
-                  refId="Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Output]"
-                  name="OLE DB Source Output">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Output].Columns[Id]"
-                      dataType="i8"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Output].ExternalColumns[Id]"
-                      lineageId="Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Output].Columns[Id]"
-                      name="Id"
-                      truncationRowDisposition="FailComponent" />
-                    <outputColumn
-                      refId="Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Output].Columns[Latitude]"
-                      dataType="wstr"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Output].ExternalColumns[Latitude]"
-                      length="50"
-                      lineageId="Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Output].Columns[Latitude]"
-                      name="Latitude"
-                      truncationRowDisposition="FailComponent" />
-                    <outputColumn
-                      refId="Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Output].Columns[Longitude]"
-                      dataType="wstr"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Output].ExternalColumns[Longitude]"
-                      length="50"
-                      lineageId="Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Output].Columns[Longitude]"
-                      name="Longitude"
-                      truncationRowDisposition="FailComponent" />
-                  </outputColumns>
-                  <externalMetadataColumns
-                    isUsed="True">
-                    <externalMetadataColumn
-                      refId="Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Output].ExternalColumns[Id]"
-                      dataType="i8"
-                      name="Id" />
-                    <externalMetadataColumn
-                      refId="Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Output].ExternalColumns[Latitude]"
-                      dataType="wstr"
-                      length="50"
-                      name="Latitude" />
-                    <externalMetadataColumn
-                      refId="Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Output].ExternalColumns[Longitude]"
-                      dataType="wstr"
-                      length="50"
-                      name="Longitude" />
-                  </externalMetadataColumns>
-                </output>
-                <output
-                  refId="Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Error Output]"
-                  isErrorOut="true"
-                  name="OLE DB Source Error Output">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Error Output].Columns[Id]"
-                      dataType="i8"
-                      lineageId="Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Error Output].Columns[Id]"
-                      name="Id" />
-                    <outputColumn
-                      refId="Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Error Output].Columns[Latitude]"
-                      dataType="wstr"
-                      length="50"
-                      lineageId="Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Error Output].Columns[Latitude]"
-                      name="Latitude" />
-                    <outputColumn
-                      refId="Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Error Output].Columns[Longitude]"
-                      dataType="wstr"
-                      length="50"
-                      lineageId="Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Error Output].Columns[Longitude]"
-                      name="Longitude" />
-                    <outputColumn
-                      refId="Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
-                      dataType="i4"
-                      lineageId="Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
-                      name="ErrorCode"
-                      specialFlags="1" />
-                    <outputColumn
-                      refId="Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
-                      dataType="i4"
-                      lineageId="Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
-                      name="ErrorColumn"
-                      specialFlags="2" />
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-              </outputs>
-            </component>
-            <component
               refId="Package\Populate DimDevice\Merge Join"
               componentClassID="Microsoft.MergeJoin"
               contactInfo="Merge Join;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
@@ -1325,11 +1177,6 @@
                       cachedLength="50"
                       cachedName="DeviceName"
                       lineageId="Package\Populate DimDevice\Sort.Outputs[Sort Output].Columns[DeviceName]" />
-                    <inputColumn
-                      refId="Package\Populate DimDevice\Merge Join.Inputs[Merge Join Left Input].Columns[GeoLocationId]"
-                      cachedDataType="i8"
-                      cachedName="GeoLocationId"
-                      lineageId="Package\Populate DimDevice\Sort.Outputs[Sort Output].Columns[GeoLocationId]" />
                     <inputColumn
                       refId="Package\Populate DimDevice\Merge Join.Inputs[Merge Join Left Input].Columns[ModelId]"
                       cachedDataType="i4"
@@ -1392,19 +1239,6 @@
                       </properties>
                     </outputColumn>
                     <outputColumn
-                      refId="Package\Populate DimDevice\Merge Join.Outputs[Merge Join Output].Columns[GeoLocationId]"
-                      dataType="i8"
-                      lineageId="Package\Populate DimDevice\Merge Join.Outputs[Merge Join Output].Columns[GeoLocationId]"
-                      name="GeoLocationId">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="The input column associated with this output column"
-                          name="InputColumnID">#{Package\Populate DimDevice\Merge Join.Inputs[Merge Join Left Input].Columns[GeoLocationId]}</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
                       refId="Package\Populate DimDevice\Merge Join.Outputs[Merge Join Output].Columns[DeviceType]"
                       dataType="wstr"
                       length="50"
@@ -1429,188 +1263,6 @@
                           dataType="System.Int32"
                           description="The input column associated with this output column"
                           name="InputColumnID">#{Package\Populate DimDevice\Merge Join.Inputs[Merge Join Left Input].Columns[ModelId]}</property>
-                      </properties>
-                    </outputColumn>
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-              </outputs>
-            </component>
-            <component
-              refId="Package\Populate DimDevice\Merge Join 1"
-              componentClassID="Microsoft.MergeJoin"
-              contactInfo="Merge Join;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
-              description="Combine two sorted data flows into one using the FULL, LEFT, or INNER join. We recommend this transformation when data flows can be sorted at their sources."
-              name="Merge Join 1"
-              version="1">
-              <properties>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the type of join to perform."
-                  name="JoinType"
-                  typeConverter="JoinType">2</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the number of columns in the ordering key."
-                  name="NumKeyColumns">1</property>
-                <property
-                  dataType="System.Boolean"
-                  description="Indicates whether the null values are treated as equal values."
-                  name="TreatNullsAsEqual">true</property>
-                <property
-                  dataType="System.Int32"
-                  description="Indicates the requested maximum buffers per input before blocking."
-                  name="MaxBuffersPerInput">5</property>
-              </properties>
-              <inputs>
-                <input
-                  refId="Package\Populate DimDevice\Merge Join 1.Inputs[Merge Join Left Input]"
-                  hasSideEffects="true"
-                  name="Merge Join Left Input">
-                  <inputColumns>
-                    <inputColumn
-                      refId="Package\Populate DimDevice\Merge Join 1.Inputs[Merge Join Left Input].Columns[GeoLocationId]"
-                      cachedDataType="i8"
-                      cachedName="GeoLocationId"
-                      cachedSortKeyPosition="1"
-                      lineageId="Package\Populate DimDevice\Sort 3.Outputs[Sort Output].Columns[GeoLocationId]" />
-                    <inputColumn
-                      refId="Package\Populate DimDevice\Merge Join 1.Inputs[Merge Join Left Input].Columns[Id]"
-                      cachedDataType="i8"
-                      cachedName="Id"
-                      lineageId="Package\Populate DimDevice\Sort 3.Outputs[Sort Output].Columns[Id]" />
-                    <inputColumn
-                      refId="Package\Populate DimDevice\Merge Join 1.Inputs[Merge Join Left Input].Columns[DeviceName]"
-                      cachedDataType="wstr"
-                      cachedLength="50"
-                      cachedName="DeviceName"
-                      lineageId="Package\Populate DimDevice\Sort 3.Outputs[Sort Output].Columns[DeviceName]" />
-                    <inputColumn
-                      refId="Package\Populate DimDevice\Merge Join 1.Inputs[Merge Join Left Input].Columns[DeviceType]"
-                      cachedDataType="wstr"
-                      cachedLength="50"
-                      cachedName="DeviceType"
-                      lineageId="Package\Populate DimDevice\Sort 3.Outputs[Sort Output].Columns[DeviceType]" />
-                    <inputColumn
-                      refId="Package\Populate DimDevice\Merge Join 1.Inputs[Merge Join Left Input].Columns[ModelId]"
-                      cachedDataType="i4"
-                      cachedName="ModelId"
-                      lineageId="Package\Populate DimDevice\Sort 3.Outputs[Sort Output].Columns[ModelId]" />
-                  </inputColumns>
-                  <externalMetadataColumns />
-                </input>
-                <input
-                  refId="Package\Populate DimDevice\Merge Join 1.Inputs[Merge Join Right Input]"
-                  hasSideEffects="true"
-                  name="Merge Join Right Input">
-                  <inputColumns>
-                    <inputColumn
-                      refId="Package\Populate DimDevice\Merge Join 1.Inputs[Merge Join Right Input].Columns[Id]"
-                      cachedDataType="i8"
-                      cachedName="Id"
-                      cachedSortKeyPosition="1"
-                      lineageId="Package\Populate DimDevice\Sort 2.Outputs[Sort Output].Columns[Id]" />
-                    <inputColumn
-                      refId="Package\Populate DimDevice\Merge Join 1.Inputs[Merge Join Right Input].Columns[Latitude]"
-                      cachedDataType="wstr"
-                      cachedLength="50"
-                      cachedName="Latitude"
-                      lineageId="Package\Populate DimDevice\Sort 2.Outputs[Sort Output].Columns[Latitude]" />
-                    <inputColumn
-                      refId="Package\Populate DimDevice\Merge Join 1.Inputs[Merge Join Right Input].Columns[Longitude]"
-                      cachedDataType="wstr"
-                      cachedLength="50"
-                      cachedName="Longitude"
-                      lineageId="Package\Populate DimDevice\Sort 2.Outputs[Sort Output].Columns[Longitude]" />
-                  </inputColumns>
-                  <externalMetadataColumns />
-                </input>
-              </inputs>
-              <outputs>
-                <output
-                  refId="Package\Populate DimDevice\Merge Join 1.Outputs[Merge Join Output]"
-                  name="Merge Join Output">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\Populate DimDevice\Merge Join 1.Outputs[Merge Join Output].Columns[Id]"
-                      dataType="i8"
-                      lineageId="Package\Populate DimDevice\Merge Join 1.Outputs[Merge Join Output].Columns[Id]"
-                      name="Id">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="The input column associated with this output column"
-                          name="InputColumnID">#{Package\Populate DimDevice\Merge Join 1.Inputs[Merge Join Left Input].Columns[Id]}</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Populate DimDevice\Merge Join 1.Outputs[Merge Join Output].Columns[DeviceName]"
-                      dataType="wstr"
-                      length="50"
-                      lineageId="Package\Populate DimDevice\Merge Join 1.Outputs[Merge Join Output].Columns[DeviceName]"
-                      name="DeviceName">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="The input column associated with this output column"
-                          name="InputColumnID">#{Package\Populate DimDevice\Merge Join 1.Inputs[Merge Join Left Input].Columns[DeviceName]}</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Populate DimDevice\Merge Join 1.Outputs[Merge Join Output].Columns[DeviceType]"
-                      dataType="wstr"
-                      length="50"
-                      lineageId="Package\Populate DimDevice\Merge Join 1.Outputs[Merge Join Output].Columns[DeviceType]"
-                      name="DeviceType">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="The input column associated with this output column"
-                          name="InputColumnID">#{Package\Populate DimDevice\Merge Join 1.Inputs[Merge Join Left Input].Columns[DeviceType]}</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Populate DimDevice\Merge Join 1.Outputs[Merge Join Output].Columns[ModelId]"
-                      dataType="i4"
-                      lineageId="Package\Populate DimDevice\Merge Join 1.Outputs[Merge Join Output].Columns[ModelId]"
-                      name="ModelId">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="The input column associated with this output column"
-                          name="InputColumnID">#{Package\Populate DimDevice\Merge Join 1.Inputs[Merge Join Left Input].Columns[ModelId]}</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Populate DimDevice\Merge Join 1.Outputs[Merge Join Output].Columns[Latitude]"
-                      dataType="wstr"
-                      length="50"
-                      lineageId="Package\Populate DimDevice\Merge Join 1.Outputs[Merge Join Output].Columns[Latitude]"
-                      name="Latitude">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="The input column associated with this output column"
-                          name="InputColumnID">#{Package\Populate DimDevice\Merge Join 1.Inputs[Merge Join Right Input].Columns[Latitude]}</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Populate DimDevice\Merge Join 1.Outputs[Merge Join Output].Columns[Longitude]"
-                      dataType="wstr"
-                      length="50"
-                      lineageId="Package\Populate DimDevice\Merge Join 1.Outputs[Merge Join Output].Columns[Longitude]"
-                      name="Longitude">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="The input column associated with this output column"
-                          name="InputColumnID">#{Package\Populate DimDevice\Merge Join 1.Inputs[Merge Join Right Input].Columns[Longitude]}</property>
                       </properties>
                     </outputColumn>
                   </outputColumns>
@@ -1797,18 +1449,6 @@
                       cachedLength="50"
                       cachedName="DeviceType"
                       lineageId="Package\Populate DimDevice\Sort 6.Outputs[Sort Output].Columns[DeviceType]" />
-                    <inputColumn
-                      refId="Package\Populate DimDevice\Merge Join 3.Inputs[Merge Join Left Input].Columns[Latitude]"
-                      cachedDataType="wstr"
-                      cachedLength="50"
-                      cachedName="Latitude"
-                      lineageId="Package\Populate DimDevice\Sort 6.Outputs[Sort Output].Columns[Latitude]" />
-                    <inputColumn
-                      refId="Package\Populate DimDevice\Merge Join 3.Inputs[Merge Join Left Input].Columns[Longitude]"
-                      cachedDataType="wstr"
-                      cachedLength="50"
-                      cachedName="Longitude"
-                      lineageId="Package\Populate DimDevice\Sort 6.Outputs[Sort Output].Columns[Longitude]" />
                   </inputColumns>
                   <externalMetadataColumns />
                 </input>
@@ -1913,34 +1553,6 @@
                           name="InputColumnID">#{Package\Populate DimDevice\Merge Join 3.Inputs[Merge Join Right Input].Columns[ModelName]}</property>
                       </properties>
                     </outputColumn>
-                    <outputColumn
-                      refId="Package\Populate DimDevice\Merge Join 3.Outputs[Merge Join Output].Columns[Latitude]"
-                      dataType="wstr"
-                      length="50"
-                      lineageId="Package\Populate DimDevice\Merge Join 3.Outputs[Merge Join Output].Columns[Latitude]"
-                      name="Latitude">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="The input column associated with this output column"
-                          name="InputColumnID">#{Package\Populate DimDevice\Merge Join 3.Inputs[Merge Join Left Input].Columns[Latitude]}</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Populate DimDevice\Merge Join 3.Outputs[Merge Join Output].Columns[Longitude]"
-                      dataType="wstr"
-                      length="50"
-                      lineageId="Package\Populate DimDevice\Merge Join 3.Outputs[Merge Join Output].Columns[Longitude]"
-                      name="Longitude">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="The input column associated with this output column"
-                          name="InputColumnID">#{Package\Populate DimDevice\Merge Join 3.Inputs[Merge Join Left Input].Columns[Longitude]}</property>
-                      </properties>
-                    </outputColumn>
                   </outputColumns>
                   <externalMetadataColumns />
                 </output>
@@ -2033,20 +1645,6 @@
                       externalMetadataColumnId="Package\Populate DimDevice\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[DeviceType]"
                       lineageId="Package\Populate DimDevice\Merge Join 3.Outputs[Merge Join Output].Columns[DeviceType]" />
                     <inputColumn
-                      refId="Package\Populate DimDevice\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Latitude]"
-                      cachedDataType="wstr"
-                      cachedLength="50"
-                      cachedName="Latitude"
-                      externalMetadataColumnId="Package\Populate DimDevice\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Latitude]"
-                      lineageId="Package\Populate DimDevice\Merge Join 3.Outputs[Merge Join Output].Columns[Latitude]" />
-                    <inputColumn
-                      refId="Package\Populate DimDevice\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Longitude]"
-                      cachedDataType="wstr"
-                      cachedLength="50"
-                      cachedName="Longitude"
-                      externalMetadataColumnId="Package\Populate DimDevice\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Longitude]"
-                      lineageId="Package\Populate DimDevice\Merge Join 3.Outputs[Merge Join Output].Columns[Longitude]" />
-                    <inputColumn
                       refId="Package\Populate DimDevice\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Id]"
                       cachedDataType="i8"
                       cachedName="Id"
@@ -2093,16 +1691,6 @@
                       dataType="wstr"
                       length="50"
                       name="Vendor" />
-                    <externalMetadataColumn
-                      refId="Package\Populate DimDevice\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Latitude]"
-                      dataType="wstr"
-                      length="50"
-                      name="Latitude" />
-                    <externalMetadataColumn
-                      refId="Package\Populate DimDevice\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Longitude]"
-                      dataType="wstr"
-                      length="50"
-                      name="Longitude" />
                   </externalMetadataColumns>
                 </input>
               </inputs>
@@ -2204,22 +1792,6 @@
                       </properties>
                     </inputColumn>
                     <inputColumn
-                      refId="Package\Populate DimDevice\Sort.Inputs[Sort Input].Columns[GeoLocationId]"
-                      cachedDataType="i8"
-                      cachedName="GeoLocationId"
-                      lineageId="Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Output].Columns[GeoLocationId]">
-                      <properties>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the comparison options for character data."
-                          name="NewComparisonFlags">0</property>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the sort order of the column."
-                          name="NewSortKeyPosition">0</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
                       refId="Package\Populate DimDevice\Sort.Inputs[Sort Input].Columns[ModelId]"
                       cachedDataType="i4"
                       cachedName="ModelId"
@@ -2284,19 +1856,6 @@
                           dataType="System.Int32"
                           description="Specifies the lineage identifier of the input column that is associated with this output column."
                           name="SortColumnId">#{Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Output].Columns[DeviceTypeId]}</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Populate DimDevice\Sort.Outputs[Sort Output].Columns[GeoLocationId]"
-                      dataType="i8"
-                      lineageId="Package\Populate DimDevice\Sort.Outputs[Sort Output].Columns[GeoLocationId]"
-                      name="GeoLocationId">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Specifies the lineage identifier of the input column that is associated with this output column."
-                          name="SortColumnId">#{Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Output].Columns[GeoLocationId]}</property>
                       </properties>
                     </outputColumn>
                     <outputColumn
@@ -2409,324 +1968,6 @@
                           dataType="System.Int32"
                           description="Specifies the lineage identifier of the input column that is associated with this output column."
                           name="SortColumnId">#{Package\Populate DimDevice\DeviceTypes.Outputs[OLE DB Source Output].Columns[TypeName]}</property>
-                      </properties>
-                    </outputColumn>
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-              </outputs>
-            </component>
-            <component
-              refId="Package\Populate DimDevice\Sort 2"
-              componentClassID="Microsoft.Sort"
-              contactInfo="Sort;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
-              description="Sorts input data in ascending or descending order when it cannot be sorted at its source. For example, sort sales data by 'customer id' before it is written to a flat file and delivered to another department. Note: We do not recommend this transformation for large data flows."
-              name="Sort 2"
-              version="1">
-              <properties>
-                <property
-                  dataType="System.Boolean"
-                  description="Indicates whether the Sort transformation removes rows with duplicate sort values."
-                  name="EliminateDuplicates">false</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the maximum number of threads to use for sorting."
-                  expressionType="Notify"
-                  name="MaximumThreads">-1</property>
-              </properties>
-              <inputs>
-                <input
-                  refId="Package\Populate DimDevice\Sort 2.Inputs[Sort Input]"
-                  name="Sort Input">
-                  <inputColumns>
-                    <inputColumn
-                      refId="Package\Populate DimDevice\Sort 2.Inputs[Sort Input].Columns[Id]"
-                      cachedDataType="i8"
-                      cachedName="Id"
-                      lineageId="Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Output].Columns[Id]">
-                      <properties>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the comparison options for character data."
-                          name="NewComparisonFlags">0</property>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the sort order of the column."
-                          name="NewSortKeyPosition">1</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\Populate DimDevice\Sort 2.Inputs[Sort Input].Columns[Latitude]"
-                      cachedDataType="wstr"
-                      cachedLength="50"
-                      cachedName="Latitude"
-                      lineageId="Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Output].Columns[Latitude]">
-                      <properties>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the comparison options for character data."
-                          name="NewComparisonFlags">0</property>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the sort order of the column."
-                          name="NewSortKeyPosition">0</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\Populate DimDevice\Sort 2.Inputs[Sort Input].Columns[Longitude]"
-                      cachedDataType="wstr"
-                      cachedLength="50"
-                      cachedName="Longitude"
-                      lineageId="Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Output].Columns[Longitude]">
-                      <properties>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the comparison options for character data."
-                          name="NewComparisonFlags">0</property>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the sort order of the column."
-                          name="NewSortKeyPosition">0</property>
-                      </properties>
-                    </inputColumn>
-                  </inputColumns>
-                  <externalMetadataColumns />
-                </input>
-              </inputs>
-              <outputs>
-                <output
-                  refId="Package\Populate DimDevice\Sort 2.Outputs[Sort Output]"
-                  isSorted="true"
-                  name="Sort Output">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\Populate DimDevice\Sort 2.Outputs[Sort Output].Columns[Id]"
-                      dataType="i8"
-                      lineageId="Package\Populate DimDevice\Sort 2.Outputs[Sort Output].Columns[Id]"
-                      name="Id"
-                      sortKeyPosition="1">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Specifies the lineage identifier of the input column that is associated with this output column."
-                          name="SortColumnId">#{Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Output].Columns[Id]}</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Populate DimDevice\Sort 2.Outputs[Sort Output].Columns[Latitude]"
-                      dataType="wstr"
-                      length="50"
-                      lineageId="Package\Populate DimDevice\Sort 2.Outputs[Sort Output].Columns[Latitude]"
-                      name="Latitude">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Specifies the lineage identifier of the input column that is associated with this output column."
-                          name="SortColumnId">#{Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Output].Columns[Latitude]}</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Populate DimDevice\Sort 2.Outputs[Sort Output].Columns[Longitude]"
-                      dataType="wstr"
-                      length="50"
-                      lineageId="Package\Populate DimDevice\Sort 2.Outputs[Sort Output].Columns[Longitude]"
-                      name="Longitude">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Specifies the lineage identifier of the input column that is associated with this output column."
-                          name="SortColumnId">#{Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Output].Columns[Longitude]}</property>
-                      </properties>
-                    </outputColumn>
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-              </outputs>
-            </component>
-            <component
-              refId="Package\Populate DimDevice\Sort 3"
-              componentClassID="Microsoft.Sort"
-              contactInfo="Sort;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
-              description="Sorts input data in ascending or descending order when it cannot be sorted at its source. For example, sort sales data by 'customer id' before it is written to a flat file and delivered to another department. Note: We do not recommend this transformation for large data flows."
-              name="Sort 3"
-              version="1">
-              <properties>
-                <property
-                  dataType="System.Boolean"
-                  description="Indicates whether the Sort transformation removes rows with duplicate sort values."
-                  name="EliminateDuplicates">false</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the maximum number of threads to use for sorting."
-                  expressionType="Notify"
-                  name="MaximumThreads">-1</property>
-              </properties>
-              <inputs>
-                <input
-                  refId="Package\Populate DimDevice\Sort 3.Inputs[Sort Input]"
-                  name="Sort Input">
-                  <inputColumns>
-                    <inputColumn
-                      refId="Package\Populate DimDevice\Sort 3.Inputs[Sort Input].Columns[Id]"
-                      cachedDataType="i8"
-                      cachedName="Id"
-                      lineageId="Package\Populate DimDevice\Merge Join.Outputs[Merge Join Output].Columns[Id]">
-                      <properties>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the comparison options for character data."
-                          name="NewComparisonFlags">0</property>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the sort order of the column."
-                          name="NewSortKeyPosition">0</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\Populate DimDevice\Sort 3.Inputs[Sort Input].Columns[DeviceName]"
-                      cachedDataType="wstr"
-                      cachedLength="50"
-                      cachedName="DeviceName"
-                      lineageId="Package\Populate DimDevice\Merge Join.Outputs[Merge Join Output].Columns[DeviceName]">
-                      <properties>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the comparison options for character data."
-                          name="NewComparisonFlags">0</property>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the sort order of the column."
-                          name="NewSortKeyPosition">0</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\Populate DimDevice\Sort 3.Inputs[Sort Input].Columns[GeoLocationId]"
-                      cachedDataType="i8"
-                      cachedName="GeoLocationId"
-                      lineageId="Package\Populate DimDevice\Merge Join.Outputs[Merge Join Output].Columns[GeoLocationId]">
-                      <properties>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the comparison options for character data."
-                          name="NewComparisonFlags">0</property>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the sort order of the column."
-                          name="NewSortKeyPosition">1</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\Populate DimDevice\Sort 3.Inputs[Sort Input].Columns[ModelId]"
-                      cachedDataType="i4"
-                      cachedName="ModelId"
-                      lineageId="Package\Populate DimDevice\Merge Join.Outputs[Merge Join Output].Columns[ModelId]">
-                      <properties>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the comparison options for character data."
-                          name="NewComparisonFlags">0</property>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the sort order of the column."
-                          name="NewSortKeyPosition">0</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\Populate DimDevice\Sort 3.Inputs[Sort Input].Columns[DeviceType]"
-                      cachedDataType="wstr"
-                      cachedLength="50"
-                      cachedName="DeviceType"
-                      lineageId="Package\Populate DimDevice\Merge Join.Outputs[Merge Join Output].Columns[DeviceType]">
-                      <properties>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the comparison options for character data."
-                          name="NewComparisonFlags">0</property>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the sort order of the column."
-                          name="NewSortKeyPosition">0</property>
-                      </properties>
-                    </inputColumn>
-                  </inputColumns>
-                  <externalMetadataColumns />
-                </input>
-              </inputs>
-              <outputs>
-                <output
-                  refId="Package\Populate DimDevice\Sort 3.Outputs[Sort Output]"
-                  isSorted="true"
-                  name="Sort Output">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\Populate DimDevice\Sort 3.Outputs[Sort Output].Columns[Id]"
-                      dataType="i8"
-                      lineageId="Package\Populate DimDevice\Sort 3.Outputs[Sort Output].Columns[Id]"
-                      name="Id">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Specifies the lineage identifier of the input column that is associated with this output column."
-                          name="SortColumnId">#{Package\Populate DimDevice\Merge Join.Outputs[Merge Join Output].Columns[Id]}</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Populate DimDevice\Sort 3.Outputs[Sort Output].Columns[DeviceName]"
-                      dataType="wstr"
-                      length="50"
-                      lineageId="Package\Populate DimDevice\Sort 3.Outputs[Sort Output].Columns[DeviceName]"
-                      name="DeviceName">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Specifies the lineage identifier of the input column that is associated with this output column."
-                          name="SortColumnId">#{Package\Populate DimDevice\Merge Join.Outputs[Merge Join Output].Columns[DeviceName]}</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Populate DimDevice\Sort 3.Outputs[Sort Output].Columns[GeoLocationId]"
-                      dataType="i8"
-                      lineageId="Package\Populate DimDevice\Sort 3.Outputs[Sort Output].Columns[GeoLocationId]"
-                      name="GeoLocationId"
-                      sortKeyPosition="1">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Specifies the lineage identifier of the input column that is associated with this output column."
-                          name="SortColumnId">#{Package\Populate DimDevice\Merge Join.Outputs[Merge Join Output].Columns[GeoLocationId]}</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Populate DimDevice\Sort 3.Outputs[Sort Output].Columns[ModelId]"
-                      dataType="i4"
-                      lineageId="Package\Populate DimDevice\Sort 3.Outputs[Sort Output].Columns[ModelId]"
-                      name="ModelId">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Specifies the lineage identifier of the input column that is associated with this output column."
-                          name="SortColumnId">#{Package\Populate DimDevice\Merge Join.Outputs[Merge Join Output].Columns[ModelId]}</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Populate DimDevice\Sort 3.Outputs[Sort Output].Columns[DeviceType]"
-                      dataType="wstr"
-                      length="50"
-                      lineageId="Package\Populate DimDevice\Sort 3.Outputs[Sort Output].Columns[DeviceType]"
-                      name="DeviceType">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Specifies the lineage identifier of the input column that is associated with this output column."
-                          name="SortColumnId">#{Package\Populate DimDevice\Merge Join.Outputs[Merge Join Output].Columns[DeviceType]}</property>
                       </properties>
                     </outputColumn>
                   </outputColumns>
@@ -2988,7 +2229,7 @@
                       refId="Package\Populate DimDevice\Sort 6.Inputs[Sort Input].Columns[Id]"
                       cachedDataType="i8"
                       cachedName="Id"
-                      lineageId="Package\Populate DimDevice\Merge Join 1.Outputs[Merge Join Output].Columns[Id]">
+                      lineageId="Package\Populate DimDevice\Merge Join.Outputs[Merge Join Output].Columns[Id]">
                       <properties>
                         <property
                           dataType="System.Int32"
@@ -3005,7 +2246,7 @@
                       cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="DeviceName"
-                      lineageId="Package\Populate DimDevice\Merge Join 1.Outputs[Merge Join Output].Columns[DeviceName]">
+                      lineageId="Package\Populate DimDevice\Merge Join.Outputs[Merge Join Output].Columns[DeviceName]">
                       <properties>
                         <property
                           dataType="System.Int32"
@@ -3022,7 +2263,7 @@
                       cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="DeviceType"
-                      lineageId="Package\Populate DimDevice\Merge Join 1.Outputs[Merge Join Output].Columns[DeviceType]">
+                      lineageId="Package\Populate DimDevice\Merge Join.Outputs[Merge Join Output].Columns[DeviceType]">
                       <properties>
                         <property
                           dataType="System.Int32"
@@ -3038,7 +2279,7 @@
                       refId="Package\Populate DimDevice\Sort 6.Inputs[Sort Input].Columns[ModelId]"
                       cachedDataType="i4"
                       cachedName="ModelId"
-                      lineageId="Package\Populate DimDevice\Merge Join 1.Outputs[Merge Join Output].Columns[ModelId]">
+                      lineageId="Package\Populate DimDevice\Merge Join.Outputs[Merge Join Output].Columns[ModelId]">
                       <properties>
                         <property
                           dataType="System.Int32"
@@ -3048,40 +2289,6 @@
                           dataType="System.Int32"
                           description="Specifies the sort order of the column."
                           name="NewSortKeyPosition">1</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\Populate DimDevice\Sort 6.Inputs[Sort Input].Columns[Latitude]"
-                      cachedDataType="wstr"
-                      cachedLength="50"
-                      cachedName="Latitude"
-                      lineageId="Package\Populate DimDevice\Merge Join 1.Outputs[Merge Join Output].Columns[Latitude]">
-                      <properties>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the comparison options for character data."
-                          name="NewComparisonFlags">0</property>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the sort order of the column."
-                          name="NewSortKeyPosition">0</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\Populate DimDevice\Sort 6.Inputs[Sort Input].Columns[Longitude]"
-                      cachedDataType="wstr"
-                      cachedLength="50"
-                      cachedName="Longitude"
-                      lineageId="Package\Populate DimDevice\Merge Join 1.Outputs[Merge Join Output].Columns[Longitude]">
-                      <properties>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the comparison options for character data."
-                          name="NewComparisonFlags">0</property>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the sort order of the column."
-                          name="NewSortKeyPosition">0</property>
                       </properties>
                     </inputColumn>
                   </inputColumns>
@@ -3104,7 +2311,7 @@
                           containsID="true"
                           dataType="System.Int32"
                           description="Specifies the lineage identifier of the input column that is associated with this output column."
-                          name="SortColumnId">#{Package\Populate DimDevice\Merge Join 1.Outputs[Merge Join Output].Columns[Id]}</property>
+                          name="SortColumnId">#{Package\Populate DimDevice\Merge Join.Outputs[Merge Join Output].Columns[Id]}</property>
                       </properties>
                     </outputColumn>
                     <outputColumn
@@ -3118,7 +2325,7 @@
                           containsID="true"
                           dataType="System.Int32"
                           description="Specifies the lineage identifier of the input column that is associated with this output column."
-                          name="SortColumnId">#{Package\Populate DimDevice\Merge Join 1.Outputs[Merge Join Output].Columns[DeviceName]}</property>
+                          name="SortColumnId">#{Package\Populate DimDevice\Merge Join.Outputs[Merge Join Output].Columns[DeviceName]}</property>
                       </properties>
                     </outputColumn>
                     <outputColumn
@@ -3132,7 +2339,7 @@
                           containsID="true"
                           dataType="System.Int32"
                           description="Specifies the lineage identifier of the input column that is associated with this output column."
-                          name="SortColumnId">#{Package\Populate DimDevice\Merge Join 1.Outputs[Merge Join Output].Columns[DeviceType]}</property>
+                          name="SortColumnId">#{Package\Populate DimDevice\Merge Join.Outputs[Merge Join Output].Columns[DeviceType]}</property>
                       </properties>
                     </outputColumn>
                     <outputColumn
@@ -3146,35 +2353,7 @@
                           containsID="true"
                           dataType="System.Int32"
                           description="Specifies the lineage identifier of the input column that is associated with this output column."
-                          name="SortColumnId">#{Package\Populate DimDevice\Merge Join 1.Outputs[Merge Join Output].Columns[ModelId]}</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Populate DimDevice\Sort 6.Outputs[Sort Output].Columns[Latitude]"
-                      dataType="wstr"
-                      length="50"
-                      lineageId="Package\Populate DimDevice\Sort 6.Outputs[Sort Output].Columns[Latitude]"
-                      name="Latitude">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Specifies the lineage identifier of the input column that is associated with this output column."
-                          name="SortColumnId">#{Package\Populate DimDevice\Merge Join 1.Outputs[Merge Join Output].Columns[Latitude]}</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Populate DimDevice\Sort 6.Outputs[Sort Output].Columns[Longitude]"
-                      dataType="wstr"
-                      length="50"
-                      lineageId="Package\Populate DimDevice\Sort 6.Outputs[Sort Output].Columns[Longitude]"
-                      name="Longitude">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Specifies the lineage identifier of the input column that is associated with this output column."
-                          name="SortColumnId">#{Package\Populate DimDevice\Merge Join 1.Outputs[Merge Join Output].Columns[Longitude]}</property>
+                          name="SortColumnId">#{Package\Populate DimDevice\Merge Join.Outputs[Merge Join Output].Columns[ModelId]}</property>
                       </properties>
                     </outputColumn>
                   </outputColumns>
@@ -3328,77 +2507,367 @@
               refId="Package\Populate DimDevice.Paths[Merge Join Output2]"
               endId="Package\Populate DimDevice\Sort 6.Inputs[Sort Input]"
               name="Merge Join Output"
-              startId="Package\Populate DimDevice\Merge Join 1.Outputs[Merge Join Output]" />
-            <path
-              refId="Package\Populate DimDevice.Paths[Merge Join Output3]"
-              endId="Package\Populate DimDevice\Sort 3.Inputs[Sort Input]"
-              name="Merge Join Output"
               startId="Package\Populate DimDevice\Merge Join.Outputs[Merge Join Output]" />
             <path
-              refId="Package\Populate DimDevice.Paths[OLE DB Source Output3]"
+              refId="Package\Populate DimDevice.Paths[OLE DB Source Output]"
               endId="Package\Populate DimDevice\Sort 4.Inputs[Sort Input]"
               name="OLE DB Source Output"
               startId="Package\Populate DimDevice\DeviceVendors.Outputs[OLE DB Source Output]" />
             <path
-              refId="Package\Populate DimDevice.Paths[OLE DB Source Output2]"
+              refId="Package\Populate DimDevice.Paths[OLE DB Source Output1]"
               endId="Package\Populate DimDevice\Sort.Inputs[Sort Input]"
               name="OLE DB Source Output"
               startId="Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Output]" />
             <path
-              refId="Package\Populate DimDevice.Paths[OLE DB Source Output4]"
+              refId="Package\Populate DimDevice.Paths[OLE DB Source Output2]"
               endId="Package\Populate DimDevice\Sort 5.Inputs[Sort Input]"
               name="OLE DB Source Output"
               startId="Package\Populate DimDevice\DeviceModels.Outputs[OLE DB Source Output]" />
             <path
-              refId="Package\Populate DimDevice.Paths[OLE DB Source Output]"
-              endId="Package\Populate DimDevice\Sort 2.Inputs[Sort Input]"
-              name="OLE DB Source Output"
-              startId="Package\Populate DimDevice\GeoLocations.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\Populate DimDevice.Paths[OLE DB Source Output1]"
+              refId="Package\Populate DimDevice.Paths[OLE DB Source Output3]"
               endId="Package\Populate DimDevice\Sort 1.Inputs[Sort Input]"
               name="OLE DB Source Output"
               startId="Package\Populate DimDevice\DeviceTypes.Outputs[OLE DB Source Output]" />
             <path
-              refId="Package\Populate DimDevice.Paths[Sort Output6]"
+              refId="Package\Populate DimDevice.Paths[Sort Output]"
               endId="Package\Populate DimDevice\Merge Join 2.Inputs[Merge Join Right Input]"
               name="Sort Output"
               startId="Package\Populate DimDevice\Sort 4.Outputs[Sort Output]" />
             <path
-              refId="Package\Populate DimDevice.Paths[Sort Output]"
+              refId="Package\Populate DimDevice.Paths[Sort Output1]"
               endId="Package\Populate DimDevice\Merge Join.Inputs[Merge Join Left Input]"
               name="Sort Output"
               startId="Package\Populate DimDevice\Sort.Outputs[Sort Output]" />
             <path
-              refId="Package\Populate DimDevice.Paths[Sort Output1]"
-              endId="Package\Populate DimDevice\Merge Join 1.Inputs[Merge Join Left Input]"
-              name="Sort Output"
-              startId="Package\Populate DimDevice\Sort 3.Outputs[Sort Output]" />
-            <path
               refId="Package\Populate DimDevice.Paths[Sort Output2]"
-              endId="Package\Populate DimDevice\Merge Join 1.Inputs[Merge Join Right Input]"
-              name="Sort Output"
-              startId="Package\Populate DimDevice\Sort 2.Outputs[Sort Output]" />
-            <path
-              refId="Package\Populate DimDevice.Paths[Sort Output3]"
               endId="Package\Populate DimDevice\Merge Join 3.Inputs[Merge Join Right Input]"
               name="Sort Output"
               startId="Package\Populate DimDevice\Sort 7.Outputs[Sort Output]" />
             <path
-              refId="Package\Populate DimDevice.Paths[Sort Output4]"
+              refId="Package\Populate DimDevice.Paths[Sort Output3]"
               endId="Package\Populate DimDevice\Merge Join.Inputs[Merge Join Right Input]"
               name="Sort Output"
               startId="Package\Populate DimDevice\Sort 1.Outputs[Sort Output]" />
             <path
-              refId="Package\Populate DimDevice.Paths[Sort Output5]"
+              refId="Package\Populate DimDevice.Paths[Sort Output4]"
               endId="Package\Populate DimDevice\Merge Join 2.Inputs[Merge Join Left Input]"
               name="Sort Output"
               startId="Package\Populate DimDevice\Sort 5.Outputs[Sort Output]" />
             <path
-              refId="Package\Populate DimDevice.Paths[Sort Output7]"
+              refId="Package\Populate DimDevice.Paths[Sort Output5]"
               endId="Package\Populate DimDevice\Merge Join 3.Inputs[Merge Join Left Input]"
               name="Sort Output"
               startId="Package\Populate DimDevice\Sort 6.Outputs[Sort Output]" />
+          </paths>
+        </pipeline>
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Populate DimGeoLocation"
+      DTS:CreationName="Microsoft.Pipeline"
+      DTS:Description="Data Flow Task"
+      DTS:DTSID="{6D448F3E-9A37-4B68-ADC7-6C8593A6BEC6}"
+      DTS:ExecutableType="Microsoft.Pipeline"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Populate DimGeoLocation"
+      DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <pipeline
+          version="1">
+          <components>
+            <component
+              refId="Package\Populate DimGeoLocation\DimGeoLocations"
+              componentClassID="Microsoft.OLEDBDestination"
+              contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
+              description="OLE DB Destination"
+              name="DimGeoLocations"
+              usesDispositions="true"
+              version="4">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of the database object used to open a rowset."
+                  name="OpenRowset">[dbo].[DimGeoLocation]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the variable that contains the name of the database object used to open a rowset."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="The SQL command to be executed."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1252</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Forces the use of the DefaultCodePage property value when describing character data."
+                  name="AlwaysUseDefaultCodePage">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the mode used to access the database."
+                  name="AccessMode"
+                  typeConverter="AccessMode">3</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepIdentity">false</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepNulls">false</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
+                  name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
+                  name="FastLoadMaxInsertCommitSize">2147483647</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Populate DimGeoLocation\DimGeoLocations.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[ns-bigd.database.windows.net.Neils-SqlDW.amir]"
+                  connectionManagerRefId="Package.ConnectionManagers[ns-bigd.database.windows.net.Neils-SqlDW.amir]"
+                  description="The OLE DB runtime connection used to access the database."
+                  name="OleDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\Populate DimGeoLocation\DimGeoLocations.Inputs[OLE DB Destination Input]"
+                  errorOrTruncationOperation="Insert"
+                  errorRowDisposition="FailComponent"
+                  hasSideEffects="true"
+                  name="OLE DB Destination Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Populate DimGeoLocation\DimGeoLocations.Inputs[OLE DB Destination Input].Columns[Id]"
+                      cachedDataType="i8"
+                      cachedName="Id"
+                      externalMetadataColumnId="Package\Populate DimGeoLocation\DimGeoLocations.Inputs[OLE DB Destination Input].ExternalColumns[Id]"
+                      lineageId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Output].Columns[Id]" />
+                    <inputColumn
+                      refId="Package\Populate DimGeoLocation\DimGeoLocations.Inputs[OLE DB Destination Input].Columns[Latitude]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="Latitude"
+                      externalMetadataColumnId="Package\Populate DimGeoLocation\DimGeoLocations.Inputs[OLE DB Destination Input].ExternalColumns[Latitude]"
+                      lineageId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Output].Columns[Latitude]" />
+                    <inputColumn
+                      refId="Package\Populate DimGeoLocation\DimGeoLocations.Inputs[OLE DB Destination Input].Columns[Longitude]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="Longitude"
+                      externalMetadataColumnId="Package\Populate DimGeoLocation\DimGeoLocations.Inputs[OLE DB Destination Input].ExternalColumns[Longitude]"
+                      lineageId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Output].Columns[Longitude]" />
+                  </inputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Populate DimGeoLocation\DimGeoLocations.Inputs[OLE DB Destination Input].ExternalColumns[Id]"
+                      dataType="i8"
+                      name="Id" />
+                    <externalMetadataColumn
+                      refId="Package\Populate DimGeoLocation\DimGeoLocations.Inputs[OLE DB Destination Input].ExternalColumns[Latitude]"
+                      dataType="wstr"
+                      length="50"
+                      name="Latitude" />
+                    <externalMetadataColumn
+                      refId="Package\Populate DimGeoLocation\DimGeoLocations.Inputs[OLE DB Destination Input].ExternalColumns[Longitude]"
+                      dataType="wstr"
+                      length="50"
+                      name="Longitude" />
+                  </externalMetadataColumns>
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Populate DimGeoLocation\DimGeoLocations.Outputs[OLE DB Destination Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="OLE DB Destination Error Output"
+                  synchronousInputId="Package\Populate DimGeoLocation\DimGeoLocations.Inputs[OLE DB Destination Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Populate DimGeoLocation\DimGeoLocations.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Populate DimGeoLocation\DimGeoLocations.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Populate DimGeoLocation\DimGeoLocations.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Populate DimGeoLocation\DimGeoLocations.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Populate DimGeoLocation\GeoLocations"
+              componentClassID="Microsoft.OLEDBSource"
+              contactInfo="OLE DB Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;7"
+              description="OLE DB Source"
+              name="GeoLocations"
+              usesDispositions="true"
+              version="7">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of the database object used to open a rowset."
+                  name="OpenRowset">[dbo].[GeoLocations]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the variable that contains the name of the database object used to open a rowset."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="The SQL command to be executed."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                <property
+                  dataType="System.String"
+                  description="The variable that contains the SQL command to be executed."
+                  name="SqlCommandVariable"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1252</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Forces the use of the DefaultCodePage property value when describing character data."
+                  name="AlwaysUseDefaultCodePage">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the mode used to access the database."
+                  name="AccessMode"
+                  typeConverter="AccessMode">0</property>
+                <property
+                  dataType="System.String"
+                  description="The mappings between the parameters in the SQL command and variables."
+                  name="ParameterMapping"></property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Populate DimGeoLocation\GeoLocations.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[ns-bigd.database.windows.net.Neils-BIGDATA.amir]"
+                  connectionManagerRefId="Package.ConnectionManagers[ns-bigd.database.windows.net.Neils-BIGDATA.amir]"
+                  description="The OLE DB runtime connection used to access the database."
+                  name="OleDbConnection" />
+              </connections>
+              <outputs>
+                <output
+                  refId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Output]"
+                  name="OLE DB Source Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Output].Columns[Id]"
+                      dataType="i8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Output].ExternalColumns[Id]"
+                      lineageId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Output].Columns[Id]"
+                      name="Id"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Output].Columns[Latitude]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Output].ExternalColumns[Latitude]"
+                      length="50"
+                      lineageId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Output].Columns[Latitude]"
+                      name="Latitude"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Output].Columns[Longitude]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Output].ExternalColumns[Longitude]"
+                      length="50"
+                      lineageId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Output].Columns[Longitude]"
+                      name="Longitude"
+                      truncationRowDisposition="FailComponent" />
+                  </outputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Output].ExternalColumns[Id]"
+                      dataType="i8"
+                      name="Id" />
+                    <externalMetadataColumn
+                      refId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Output].ExternalColumns[Latitude]"
+                      dataType="wstr"
+                      length="50"
+                      name="Latitude" />
+                    <externalMetadataColumn
+                      refId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Output].ExternalColumns[Longitude]"
+                      dataType="wstr"
+                      length="50"
+                      name="Longitude" />
+                  </externalMetadataColumns>
+                </output>
+                <output
+                  refId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Error Output]"
+                  isErrorOut="true"
+                  name="OLE DB Source Error Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Error Output].Columns[Id]"
+                      dataType="i8"
+                      lineageId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Error Output].Columns[Id]"
+                      name="Id" />
+                    <outputColumn
+                      refId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Error Output].Columns[Latitude]"
+                      dataType="wstr"
+                      length="50"
+                      lineageId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Error Output].Columns[Latitude]"
+                      name="Latitude" />
+                    <outputColumn
+                      refId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Error Output].Columns[Longitude]"
+                      dataType="wstr"
+                      length="50"
+                      lineageId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Error Output].Columns[Longitude]"
+                      name="Longitude" />
+                    <outputColumn
+                      refId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+          </components>
+          <paths>
+            <path
+              refId="Package\Populate DimGeoLocation.Paths[OLE DB Source Output]"
+              endId="Package\Populate DimGeoLocation\DimGeoLocations.Inputs[OLE DB Destination Input]"
+              name="OLE DB Source Output"
+              startId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Output]" />
           </paths>
         </pipeline>
       </DTS:ObjectData>
@@ -4284,6 +3753,22 @@
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 5"
       DTS:To="Package\Populate FactDhtMeasurements" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 6]"
+      DTS:CreationName=""
+      DTS:DTSID="{33DE2A9D-6CF9-4FA3-A1D0-3AC20B33B87E}"
+      DTS:From="Package\DELETE DATA FROM DW"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 6"
+      DTS:To="Package\Populate DimGeoLocation" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 7]"
+      DTS:CreationName=""
+      DTS:DTSID="{491F6100-23A6-4093-A693-B06F7123D45E}"
+      DTS:From="Package\Populate DimGeoLocation"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 7"
+      DTS:To="Package\Populate FactDhtMeasurements" />
   </DTS:PrecedenceConstraints>
   <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
 <!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
@@ -4300,37 +3785,37 @@
         <NodeLayout
           Size="206.666666666667,42.6666666666667"
           Id="Package\DELETE DATA FROM DW"
-          TopLeft="328.749995101243,30.1052637245517" />
+          TopLeft="305.312495450489,28.3947373765658" />
         <NodeLayout
           Size="190.666666666667,42.6666666666667"
           Id="Package\Populate DimDateTime"
-          TopLeft="547.656241839286,117.171054837033" />
+          TopLeft="510.15624239808,139.40789736085" />
         <NodeLayout
           Size="176,42.6666666666667"
           Id="Package\Populate DimDevice"
-          TopLeft="345.156244856771,114.092107410659" />
+          TopLeft="307.656245415565,138.039476282461" />
         <NodeLayout
           Size="226.666666666667,42.6666666666667"
           Id="Package\Populate DimTemperatureAlert"
-          TopLeft="74.9999988824129,114.947370584652" />
+          TopLeft="64.0624990453943,138.894739456454" />
         <NodeLayout
           Size="232,42.6666666666667"
           Id="Package\Populate FactDhtMeasurements"
-          TopLeft="324.218745168764,247.171057283961" />
+          TopLeft="299.999995529651,275.394742025728" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint]"
-          TopLeft="432.619786645674,72.7719303912184">
+          TopLeft="392.21770376636,71.0614040432325">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,41.3201770194407"
+              EndConnector="0,66.9780722392289"
               Start="0,0"
-              End="0,33.8201770194407">
+              End="0,59.4780722392289">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,33.8201770194407" />
+                    End="0,59.4780722392289" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -4341,30 +3826,30 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 1]"
-          TopLeft="398.972217323465,72.7719303912184">
+          TopLeft="349.045828783822,71.0614040432325">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-210.638885107719,42.1754401934334"
+              EndConnector="-171.649996405095,67.8333354132219"
               Start="0,0"
-              End="-210.638885107719,34.6754401934334">
+              End="-171.649996405095,60.3333354132219">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,13.064582715909" />
+                    End="0,16.1716536858901" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,13.064582715909"
-                    Point2="0,17.064582715909"
-                    Point3="-4,17.064582715909" />
+                    Point1="0,16.1716536858901"
+                    Point2="0,20.1716536858901"
+                    Point3="-4,20.1716536858901" />
                   <mssgle:LineSegment
-                    End="-206.638885107719,17.064582715909" />
+                    End="-167.649996405095,20.1716536858901" />
                   <mssgle:CubicBezierSegment
-                    Point1="-206.638885107719,17.064582715909"
-                    Point2="-210.638885107719,17.064582715909"
-                    Point3="-210.638885107719,21.064582715909" />
+                    Point1="-167.649996405095,20.1716536858901"
+                    Point2="-171.649996405095,20.1716536858901"
+                    Point3="-171.649996405095,24.1716536858901" />
                   <mssgle:LineSegment
-                    End="-210.638885107719,34.6754401934334" />
+                    End="-171.649996405095,60.3333354132219" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -4375,30 +3860,30 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 2]"
-          TopLeft="481.749995101243,72.7719303912184">
+          TopLeft="428.512495450489,71.0614040432325">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="161.239580071376,44.399124445815"
+              EndConnector="176.977080280924,68.346493317617"
               Start="0,0"
-              End="161.239580071376,36.899124445815">
+              End="176.977080280924,60.846493317617">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,11.1767707765949" />
+                    End="0,26.5388328457018" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,11.1767707765949"
-                    Point2="0,15.1767707765949"
-                    Point3="4,15.1767707765949" />
+                    Point1="0,26.5388328457018"
+                    Point2="0,30.5388328457018"
+                    Point3="4,30.5388328457018" />
                   <mssgle:LineSegment
-                    End="157.239580071376,15.1767707765949" />
+                    End="172.977080280924,30.5388328457018" />
                   <mssgle:CubicBezierSegment
-                    Point1="157.239580071376,15.1767707765949"
-                    Point2="161.239580071376,15.1767707765949"
-                    Point3="161.239580071376,19.1767707765949" />
+                    Point1="172.977080280924,30.5388328457018"
+                    Point2="176.977080280924,30.5388328457018"
+                    Point3="176.977080280924,34.5388328457018" />
                   <mssgle:LineSegment
-                    End="161.239580071376,36.899124445815" />
+                    End="176.977080280924,60.846493317617" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -4409,30 +3894,30 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 3]"
-          TopLeft="188.333332215746,157.614037251318">
+          TopLeft="177.395832378728,181.561406123121">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="195.885412953018,89.5570200326425"
+              EndConnector="171.404163150924,93.8333359026071"
               Start="0,0"
-              End="195.885412953018,82.0570200326425">
+              End="171.404163150924,86.3333359026071">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,55.0262177487871" />
+                    End="0,62.0477364363011" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,55.0262177487871"
-                    Point2="0,59.0262177487871"
-                    Point3="4,59.0262177487871" />
+                    Point1="0,62.0477364363011"
+                    Point2="0,66.0477364363011"
+                    Point3="4,66.0477364363011" />
                   <mssgle:LineSegment
-                    End="191.885412953018,59.0262177487871" />
+                    End="167.404163150924,66.0477364363011" />
                   <mssgle:CubicBezierSegment
-                    Point1="191.885412953018,59.0262177487871"
-                    Point2="195.885412953018,59.0262177487871"
-                    Point3="195.885412953018,63.0262177487871" />
+                    Point1="167.404163150924,66.0477364363011"
+                    Point2="171.404163150924,66.0477364363011"
+                    Point3="171.404163150924,70.0477364363011" />
                   <mssgle:LineSegment
-                    End="195.885412953018,82.0570200326425" />
+                    End="171.404163150924,86.3333359026071" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -4443,18 +3928,18 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 4]"
-          TopLeft="436.687495012768,156.758774077326">
+          TopLeft="394.628120472608,180.706142949128">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,90.4122832066352"
+              EndConnector="0,94.6885990766001"
               Start="0,0"
-              End="0,82.9122832066352">
+              End="0,87.1885990766001">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,82.9122832066352" />
+                    End="0,87.1885990766001" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -4465,30 +3950,102 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 5]"
-          TopLeft="642.989575172619,159.8377215037">
+          TopLeft="605.489575731413,182.074564027516">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-146.770830003855,87.3333357802609"
+              EndConnector="-167.089580201762,93.320177998212"
               Start="0,0"
-              End="-146.770830003855,79.8333357802609">
+              End="-167.089580201762,85.820177998212">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,53.5606076733538" />
+                    End="0,47.646663395957" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,53.5606076733538"
-                    Point2="0,57.5606076733538"
-                    Point3="-4,57.5606076733538" />
+                    Point1="0,47.646663395957"
+                    Point2="0,51.646663395957"
+                    Point3="-4,51.646663395957" />
                   <mssgle:LineSegment
-                    End="-142.770830003855,57.5606076733538" />
+                    End="-163.089580201762,51.646663395957" />
                   <mssgle:CubicBezierSegment
-                    Point1="-142.770830003855,57.5606076733538"
-                    Point2="-146.770830003855,57.5606076733538"
-                    Point3="-146.770830003855,61.5606076733538" />
+                    Point1="-163.089580201762,51.646663395957"
+                    Point2="-167.089580201762,51.646663395957"
+                    Point3="-167.089580201762,55.646663395957" />
                   <mssgle:LineSegment
-                    End="-146.770830003855,79.8333357802609" />
+                    End="-167.089580201762,85.820177998212" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="204,42.6666666666667"
+          Id="Package\Populate DimGeoLocation"
+          TopLeft="720.312489266507,139.40789736085" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 6]"
+          TopLeft="468.245828783822,71.0614040432325">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="354.066660482685,68.3464933176174"
+              Start="0,0"
+              End="354.066660482685,60.8464933176174">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,16.3242518659823" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,16.3242518659823"
+                    Point2="0,20.3242518659823"
+                    Point3="4,20.3242518659823" />
+                  <mssgle:LineSegment
+                    End="350.066660482685,20.3242518659823" />
+                  <mssgle:CubicBezierSegment
+                    Point1="350.066660482685,20.3242518659823"
+                    Point2="354.066660482685,20.3242518659823"
+                    Point3="354.066660482685,24.3242518659823" />
+                  <mssgle:LineSegment
+                    End="354.066660482685,60.8464933176174" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 7]"
+          TopLeft="822.312489266507,182.074564027517">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-339.112493736856,93.3201779982116"
+              Start="0,0"
+              End="-339.112493736856,85.8201779982116">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,61.6865330569936" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,61.6865330569936"
+                    Point2="0,65.6865330569936"
+                    Point3="-4,65.6865330569936" />
+                  <mssgle:LineSegment
+                    End="-335.112493736856,65.6865330569936" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-335.112493736856,65.6865330569936"
+                    Point2="-339.112493736856,65.6865330569936"
+                    Point3="-339.112493736856,69.6865330569936" />
+                  <mssgle:LineSegment
+                    End="-339.112493736856,85.8201779982116" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -4504,41 +4061,19 @@
     design-time-name="Package\Populate DimDateTime">
     <LayoutInfo>
       <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <NodeLayout
-          Size="154.666666666667,42.6666666666667"
-          Id="Package\Populate DimDateTime\OLE DB Source"
-          TopLeft="533,81" />
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="98.6666666666667,42.6666666666667"
           Id="Package\Populate DimDateTime\Sort"
           TopLeft="567,165" />
-        <EdgeLayout
-          Id="Package\Populate DimDateTime.Paths[OLE DB Source Output]"
-          TopLeft="613.333333333333,123.666666666667">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,41.3333333333333"
-              Start="0,0"
-              End="0,33.8333333333333">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,33.8333333333333" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
         <NodeLayout
           Size="174.666666666667,42.6666666666667"
           Id="Package\Populate DimDateTime\OLE DB Destination"
           TopLeft="527,251" />
+        <NodeLayout
+          Size="154.666666666667,42.6666666666667"
+          Id="Package\Populate DimDateTime\OLE DB Source"
+          TopLeft="533,81" />
         <EdgeLayout
           Id="Package\Populate DimDateTime.Paths[Sort Output]"
           TopLeft="615.333333333333,207.666666666667">
@@ -4558,7 +4093,33 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Populate DimDateTime.Paths[OLE DB Source Output]"
+          TopLeft="613.333333333333,123.666666666667">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,41.3333333333333"
+              Start="0,0"
+              End="0,33.8333333333333">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,33.8333333333333" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -4594,11 +4155,7 @@
     design-time-name="Package\Populate DimDevice">
     <LayoutInfo>
       <GraphLayout
-        Capacity="64" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <NodeLayout
-          Size="141.333333333334,42.6666666666667"
-          Id="Package\Populate DimDevice\Merge Join 1"
-          TopLeft="200,356.25" />
+        Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="98.6666666666667,42.6666666666667"
           Id="Package\Populate DimDevice\Sort"
@@ -4606,27 +4163,15 @@
         <NodeLayout
           Size="108,42.6666666666667"
           Id="Package\Populate DimDevice\Sort 5"
-          TopLeft="567.5,276.25" />
+          TopLeft="477.083334680647,115.688593469058" />
         <NodeLayout
           Size="146.666666666667,42.6666666666667"
           Id="Package\Populate DimDevice\DeviceModels"
-          TopLeft="553.25,181.75" />
+          TopLeft="462.833334680647,21.1885934690579" />
         <NodeLayout
           Size="141.333333333334,42.6666666666667"
           Id="Package\Populate DimDevice\Merge Join 2"
-          TopLeft="655,361.25" />
-        <NodeLayout
-          Size="108,42.6666666666667"
-          Id="Package\Populate DimDevice\Sort 3"
-          TopLeft="111.75,261.5" />
-        <NodeLayout
-          Size="145.333333333334,42.6666666666667"
-          Id="Package\Populate DimDevice\GeoLocations"
-          TopLeft="326,186" />
-        <NodeLayout
-          Size="108,42.6666666666667"
-          Id="Package\Populate DimDevice\Sort 2"
-          TopLeft="342,264" />
+          TopLeft="564.583334680647,200.688593469058" />
         <NodeLayout
           Size="108,42.6666666666667"
           Id="Package\Populate DimDevice\Sort 1"
@@ -4638,15 +4183,15 @@
         <NodeLayout
           Size="108,42.6666666666667"
           Id="Package\Populate DimDevice\Sort 4"
-          TopLeft="773.75,275" />
+          TopLeft="683.333334680647,114.438593469058" />
         <NodeLayout
           Size="108,42.6666666666667"
           Id="Package\Populate DimDevice\Sort 6"
-          TopLeft="221.428571428571,434.285714285714" />
+          TopLeft="117.678572974567,383.654134385332" />
         <NodeLayout
           Size="108,42.6666666666667"
           Id="Package\Populate DimDevice\Sort 7"
-          TopLeft="665.714285714286,440" />
+          TopLeft="575.297620394933,279.438593469058" />
         <NodeLayout
           Size="132,42.6666666666667"
           Id="Package\Populate DimDevice\Merge Join"
@@ -4654,44 +4199,22 @@
         <NodeLayout
           Size="141.333333333334,42.6666666666667"
           Id="Package\Populate DimDevice\Merge Join 3"
-          TopLeft="424.583333333333,541.666666666667" />
+          TopLeft="334.16666801398,381.105260135725" />
         <NodeLayout
           Size="152,42.6666666666667"
           Id="Package\Populate DimDevice\DeviceVendors"
-          TopLeft="747.25,180.75" />
+          TopLeft="656.833334680647,20.1885934690579" />
         <NodeLayout
           Size="174.666666666667,42.6666666666667"
           Id="Package\Populate DimDevice\OLE DB Destination"
-          TopLeft="457.5,663.75" />
+          TopLeft="316.369049722063,472.887841019022" />
         <NodeLayout
           Size="117.333333333334,42.6666666666667"
           Id="Package\Populate DimDevice\Devcies"
           TopLeft="28,21" />
         <EdgeLayout
-          Id="Package\Populate DimDevice.Paths[Merge Join Output2]"
-          TopLeft="273.047619047619,398.916666666667">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,35.3690476190478"
-              Start="0,0"
-              End="0,27.8690476190478">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,27.8690476190478" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
           Id="Package\Populate DimDevice.Paths[Merge Join Output1]"
-          TopLeft="722.690476190476,403.916666666667">
+          TopLeft="632.273810871123,243.355260135725">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -4713,132 +4236,18 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package\Populate DimDevice.Paths[Merge Join Output]"
-          TopLeft="495.25,584.333333333333">
+          TopLeft="404.267858868021,423.771926802392">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="49.5833333333334,79.4166666666667"
+              EndConnector="0,49.1159142166306"
               Start="0,0"
-              End="49.5833333333334,71.9166666666667">
+              End="0,41.6159142166306">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,35.7083333333334" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,35.7083333333334"
-                    Point2="0,39.7083333333334"
-                    Point3="4,39.7083333333334" />
-                  <mssgle:LineSegment
-                    End="45.5833333333334,39.7083333333334" />
-                  <mssgle:CubicBezierSegment
-                    Point1="45.5833333333334,39.7083333333334"
-                    Point2="49.5833333333334,39.7083333333334"
-                    Point3="49.5833333333334,43.7083333333334" />
-                  <mssgle:LineSegment
-                    End="49.5833333333334,71.9166666666667" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Populate DimDevice.Paths[Sort Output7]"
-          TopLeft="275.428571428571,476.952380952381">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="197.599206349206,64.7142857142855"
-              Start="0,0"
-              End="197.599206349206,57.2142857142855">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,34.393923240938" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,34.393923240938"
-                    Point2="0,38.393923240938"
-                    Point3="4,38.393923240938" />
-                  <mssgle:LineSegment
-                    End="193.599206349206,38.393923240938" />
-                  <mssgle:CubicBezierSegment
-                    Point1="193.599206349206,38.393923240938"
-                    Point2="197.599206349206,38.393923240938"
-                    Point3="197.599206349206,42.393923240938" />
-                  <mssgle:LineSegment
-                    End="197.599206349206,57.2142857142855" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Populate DimDevice.Paths[Sort Output]"
-          TopLeft="83.3333333333333,137.666666666667">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="62.5,52.0833333333333"
-              Start="0,0"
-              End="62.5,44.5833333333333">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,26.875748502994" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,26.875748502994"
-                    Point2="0,30.875748502994"
-                    Point3="4,30.875748502994" />
-                  <mssgle:LineSegment
-                    End="58.5,30.875748502994" />
-                  <mssgle:CubicBezierSegment
-                    Point1="58.5,30.875748502994"
-                    Point2="62.5,30.875748502994"
-                    Point3="62.5,34.875748502994" />
-                  <mssgle:LineSegment
-                    End="62.5,44.5833333333333" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Populate DimDevice.Paths[Sort Output6]"
-          TopLeft="827.75,317.666666666667">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-79.8611111111111,43.5833333333333"
-              Start="0,0"
-              End="-79.8611111111111,36.0833333333333">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,21.857276119403" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,21.857276119403"
-                    Point2="0,25.857276119403"
-                    Point3="-4,25.857276119403" />
-                  <mssgle:LineSegment
-                    End="-75.8611111111111,25.857276119403" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-75.8611111111111,25.857276119403"
-                    Point2="-79.8611111111111,25.857276119403"
-                    Point3="-79.8611111111111,29.857276119403" />
-                  <mssgle:LineSegment
-                    End="-79.8611111111111,36.0833333333333" />
+                    End="0,41.6159142166306" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -4849,7 +4258,29 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package\Populate DimDevice.Paths[Sort Output5]"
-          TopLeft="621.5,318.916666666667">
+          TopLeft="225.678572974567,403.713030593862">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="108.488095039413,0"
+              Start="0,0"
+              End="100.988095039413,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="100.988095039413,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Populate DimDevice.Paths[Sort Output4]"
+          TopLeft="531.083334680647,158.355260135725">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -4882,7 +4313,7 @@
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Populate DimDevice.Paths[Sort Output4]"
+          Id="Package\Populate DimDevice.Paths[Sort Output3]"
           TopLeft="255,140.666666666667">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -4916,65 +4347,31 @@
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Populate DimDevice.Paths[Sort Output3]"
-          TopLeft="719.714285714286,482.666666666667">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-202.242063492064,58.9999999999999"
-              Start="0,0"
-              End="-202.242063492064,51.4999999999999">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,31.0037313432835" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,31.0037313432835"
-                    Point2="0,35.0037313432835"
-                    Point3="-4,35.0037313432835" />
-                  <mssgle:LineSegment
-                    End="-198.242063492064,35.0037313432835" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-198.242063492064,35.0037313432835"
-                    Point2="-202.242063492064,35.0037313432835"
-                    Point3="-202.242063492064,39.0037313432835" />
-                  <mssgle:LineSegment
-                    End="-202.242063492064,51.4999999999999" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
           Id="Package\Populate DimDevice.Paths[Sort Output2]"
-          TopLeft="396,306.666666666667">
+          TopLeft="629.297620394933,322.105260135725">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-103.111111111111,49.5833333333333"
+              EndConnector="-224.464285714286,59.0000000000003"
               Start="0,0"
-              End="-103.111111111111,42.0833333333333">
+              End="-224.464285714286,51.5000000000003">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,25.4169776119403" />
+                    End="0,25.5000000000001" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,25.4169776119403"
-                    Point2="0,29.4169776119403"
-                    Point3="-4,29.4169776119403" />
+                    Point1="0,25.5000000000001"
+                    Point2="0,29.5000000000001"
+                    Point3="-4,29.5000000000001" />
                   <mssgle:LineSegment
-                    End="-99.1111111111111,29.4169776119403" />
+                    End="-220.464285714286,29.5000000000001" />
                   <mssgle:CubicBezierSegment
-                    Point1="-99.1111111111111,29.4169776119403"
-                    Point2="-103.111111111111,29.4169776119403"
-                    Point3="-103.111111111111,33.4169776119403" />
+                    Point1="-220.464285714286,29.5000000000001"
+                    Point2="-224.464285714286,29.5000000000001"
+                    Point3="-224.464285714286,33.5000000000001" />
                   <mssgle:LineSegment
-                    End="-103.111111111111,42.0833333333333" />
+                    End="-224.464285714286,51.5000000000003" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -4985,30 +4382,86 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package\Populate DimDevice.Paths[Sort Output1]"
-          TopLeft="165.75,304.166666666667">
+          TopLeft="83.3333333333333,137.666666666667">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="104.916666666667,52.0833333333333"
+              EndConnector="62.5,52.0833333333333"
               Start="0,0"
-              End="104.916666666667,44.5833333333333">
+              End="62.5,44.5833333333333">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,22.0416666666667" />
+                    End="0,26.875748502994" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,22.0416666666667"
-                    Point2="0,26.0416666666667"
-                    Point3="4,26.0416666666667" />
+                    Point1="0,26.875748502994"
+                    Point2="0,30.875748502994"
+                    Point3="4,30.875748502994" />
                   <mssgle:LineSegment
-                    End="100.916666666667,26.0416666666667" />
+                    End="58.5,30.875748502994" />
                   <mssgle:CubicBezierSegment
-                    Point1="100.916666666667,26.0416666666667"
-                    Point2="104.916666666667,26.0416666666667"
-                    Point3="104.916666666667,30.0416666666667" />
+                    Point1="58.5,30.875748502994"
+                    Point2="62.5,30.875748502994"
+                    Point3="62.5,34.875748502994" />
                   <mssgle:LineSegment
-                    End="104.916666666667,44.5833333333333" />
+                    End="62.5,44.5833333333333" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Populate DimDevice.Paths[Sort Output]"
+          TopLeft="737.333334680647,157.105260135725">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-79.8611111111111,43.5833333333333"
+              Start="0,0"
+              End="-79.8611111111111,36.0833333333333">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,21.857276119403" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,21.857276119403"
+                    Point2="0,25.857276119403"
+                    Point3="-4,25.857276119403" />
+                  <mssgle:LineSegment
+                    End="-75.8611111111111,25.857276119403" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-75.8611111111111,25.857276119403"
+                    Point2="-79.8611111111111,25.857276119403"
+                    Point3="-79.8611111111111,29.857276119403" />
+                  <mssgle:LineSegment
+                    End="-79.8611111111111,36.0833333333333" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Populate DimDevice.Paths[OLE DB Source Output3]"
+          TopLeft="255.333333333333,62.6666666666667">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,35.3333333333333"
+              Start="0,0"
+              End="0,27.8333333333333">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,27.8333333333333" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -5019,6 +4472,28 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package\Populate DimDevice.Paths[OLE DB Source Output2]"
+          TopLeft="533.625001347314,63.8552601357248">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,51.8333333333333"
+              Start="0,0"
+              End="0,44.3333333333333">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,44.3333333333333" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Populate DimDevice.Paths[OLE DB Source Output1]"
           TopLeft="85,63.6666666666667">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -5041,73 +4516,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package\Populate DimDevice.Paths[OLE DB Source Output]"
-          TopLeft="397.333333333333,228.666666666667">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,35.3333333333333"
-              Start="0,0"
-              End="0,27.8333333333333">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,27.8333333333333" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Populate DimDevice.Paths[OLE DB Source Output1]"
-          TopLeft="255.333333333333,62.6666666666667">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,35.3333333333333"
-              Start="0,0"
-              End="0,27.8333333333333">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,27.8333333333333" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Populate DimDevice.Paths[OLE DB Source Output4]"
-          TopLeft="624.041666666667,224.416666666667">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,51.8333333333333"
-              Start="0,0"
-              End="0,44.3333333333333">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,44.3333333333333" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Populate DimDevice.Paths[OLE DB Source Output3]"
-          TopLeft="825.5,223.416666666667">
+          TopLeft="735.083334680647,62.8552601357248">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -5128,19 +4537,19 @@
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Populate DimDevice.Paths[Merge Join Output3]"
-          TopLeft="166.125,232.416666666667">
+          Id="Package\Populate DimDevice.Paths[Merge Join Output2]"
+          TopLeft="169.089286487283,232.416666666667">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,29.0833333333333"
+              EndConnector="0,151.237467718665"
               Start="0,0"
-              End="0,21.5833333333333">
+              End="0,143.737467718665">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,21.5833333333333" />
+                    End="0,143.737467718665" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -5154,19 +4563,6 @@
   </TaskHost>
   <PipelineComponentMetadata
     design-time-name="Package\Populate DimDevice\DeviceModels">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Populate DimDevice\GeoLocations">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -5373,6 +4769,70 @@
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\Populate FactDhtMeasurements\DhtMeasurements">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
+    design-time-name="Package\Populate DimGeoLocation">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="145.333333333334,42.6666666666667"
+          Id="Package\Populate DimGeoLocation\GeoLocations"
+          TopLeft="457,75" />
+        <NodeLayout
+          Size="164,42.6666666666667"
+          Id="Package\Populate DimGeoLocation\DimGeoLocations"
+          TopLeft="446,180" />
+        <EdgeLayout
+          Id="Package\Populate DimGeoLocation.Paths[OLE DB Source Output]"
+          TopLeft="528.833333333333,117.666666666667">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,62.3333333333333"
+              Start="0,0"
+              End="0,54.8333333333333">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,54.8333333333333" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Populate DimGeoLocation\GeoLocations">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Populate DimGeoLocation\DimGeoLocations">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
