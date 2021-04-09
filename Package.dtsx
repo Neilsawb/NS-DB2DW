@@ -11,8 +11,8 @@
   DTS:LocaleID="2057"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="18"
-  DTS:VersionGUID="{09878EFC-A930-4A90-AAD5-1B7B0FAF806F}">
+  DTS:VersionBuild="22"
+  DTS:VersionGUID="{686DB811-A6F2-4E3F-819F-AFA88DBCBEC5}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -27,7 +27,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2JOriuk+YEaNFP0gjA6QqwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACGBm7quPZpKmhyVR6L/x+PjT3VmCY8UXZ7lEGtYfUQ1wAAAAAOgAAAAAIAACAAAADQslhOenSwLQaOqCcJcMzRFdA9MBPwFzI68vLMXzc0aCAAAAD/POpOb+3/4lYE+Rel12/zXZHkPBZM9Z/B5RU1MGknxEAAAAB4QKy3Emm8naANoPLBN6JDBxs4NwXbQjl0EMnZodgksaEqonxLMT39LJFtFvSWSNarXRZ104FIgtrGM52pHPZk</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2JOriuk+YEaNFP0gjA6QqwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABQ73ma6ucw6XL0gfD8EevwnkgS+ekRUyQ8fqi4XV6hFAAAAAAOgAAAAAIAACAAAABVFl2/sxp2sCzmJ8FJUFMWP5ODbdjsB88NHh+/OCQxJSAAAADIIkXx6JZ1VrXFpkYque+yhd4JRNPvkJ/1649nE6PkCUAAAAARW07MV+QUQ4DaguXmZ3PbK8FD8kGweMFfYFlZsuSfeY7HBR/6ngwLQBJV68rRsnGMvIwn/bvBB3SEnHUM3SgL</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -42,7 +42,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2JOriuk+YEaNFP0gjA6QqwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADf9G/kxzCKXUsAa6rKNMhozBVr8l+s75robOkgg8ZguQAAAAAOgAAAAAIAACAAAAB3w0xWhC5rXRSs+BiDUg9ekoIBzOTU7UQl2KLZAm7cVCAAAABg5uy2f4RKddbSP9k++KS7vijdPxABogEvmVi/Ly+7ckAAAABi4WQmCjMdgY06+GbDHV3xJyBY7A83RXywVwgJwXKxBIyRqFlem9IA3522sFwC/sKWT/5+7pBxwfWQOHbAX0yu</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2JOriuk+YEaNFP0gjA6QqwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADpL5hOcj1sLJv/bGbf04oL0i/QsIJEiDZ7uYGI7LN2ZgAAAAAOgAAAAAIAACAAAACOs53ltEIdVjADKYEk3Jawf5xx6antThY58PpTosjxiSAAAAD3vvlYzL8lNPshInCQWKjLqUqGU1thY5sqRzqlfXpWV0AAAAAoQFGNX1qWvFyorlJuv5K+vkydItx0fA1PyoPGycjz4yvxLTBk8VTYkUu75p60vfOgKmpTuJX7KWsqA8p35sDI</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -57,7 +57,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2JOriuk+YEaNFP0gjA6QqwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACM8vQhhO16j9yhLno5SO+xX5gA1OvJRRMQXp8coDus+QAAAAAOgAAAAAIAACAAAABZiAtZxLT88znQ6qUVmDRd9twXbx2h7RYTjLw5x3Z4lSAAAABwqHtYtSU6Kgk7t0C3YqlZfncSLZRGzrag2FDJ5e06fUAAAABfmm0yJZgWBJUhBndP7Xbn3BPZxkLStlKnPukiZ9iffTBdGukJ1eDxzFVVcBIqOcJoYu+x9zBapr/MTVtLnM2w</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2JOriuk+YEaNFP0gjA6QqwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADh2K0029HiqlvhGUvMukr883kJWBBYBfuGrP4Yqk9CxwAAAAAOgAAAAAIAACAAAAC8k8JCL/ts0h0Xr/qe6VIDUbkvBKOB5hUsgv2oR9NduiAAAACdGpw04crWtIVT3QxajYxvDfPx60XiyjYWex/uVRp4sEAAAAD1e149ruMqmCeU268Gv4C61Q4eQlpHzbHLWiz8ZiuOnqfFwrkP5UiOGwaEcRyiBD+dNUCZ4LSU3X65FnDeQZrG</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -72,7 +72,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2JOriuk+YEaNFP0gjA6QqwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADunty3StBE3joIfkIJ5ncn38GLCNhQn/pThAjkU/9+3wAAAAAOgAAAAAIAACAAAACMfVdfYqczUeMrdcoaSUHbHEGJQZ2kYk9jfkMkup3vfSAAAAAefTLY6076S6xCR9tjFPY424/LuU7mO0Rukj0zUfjjZ0AAAADcPq9gIfiFKrj8Hr1O0bE/Vw1gLnPTRZ7YZqj0ab3mGWRQrMbNDB0V3djXfP0cove4pMIlEbNjVyHcEEWTjyDm</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2JOriuk+YEaNFP0gjA6QqwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAUZ5VLQ7vaL/z1kOpmgRLjhig5N+ZfuSpWKDzgMcu8iwAAAAAOgAAAAAIAACAAAAAB9tfcisaZSY+XHwSgfCgxQ2bpsRdzbSOhjVTAd6kcpSAAAAAcdNmvIMbSeyaZ8L1YFS5OCw8Msu1yJ3sEAZoF1DSIr0AAAAC77EuqluYHAWSAHK+b8Fvfncl3tcFsVF0ZjGLUb6lxUJUfVbxTtp3/Wji2z/7czR46/9eucL//dYEMBlPKxfh6</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -646,15 +646,6 @@
                       lineageId="Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Output].Columns[ModelId]"
                       name="ModelId"
                       truncationRowDisposition="FailComponent" />
-                    <outputColumn
-                      refId="Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Output].Columns[GeoLocationId]"
-                      dataType="i8"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Output].ExternalColumns[GeoLocationId]"
-                      lineageId="Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Output].Columns[GeoLocationId]"
-                      name="GeoLocationId"
-                      truncationRowDisposition="FailComponent" />
                   </outputColumns>
                   <externalMetadataColumns
                     isUsed="True">
@@ -671,10 +662,6 @@
                       refId="Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Output].ExternalColumns[DeviceTypeId]"
                       dataType="i4"
                       name="DeviceTypeId" />
-                    <externalMetadataColumn
-                      refId="Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Output].ExternalColumns[GeoLocationId]"
-                      dataType="i8"
-                      name="GeoLocationId" />
                     <externalMetadataColumn
                       refId="Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Output].ExternalColumns[ModelId]"
                       dataType="i4"
@@ -719,11 +706,6 @@
                       lineageId="Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
                       name="ErrorColumn"
                       specialFlags="2" />
-                    <outputColumn
-                      refId="Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Error Output].Columns[GeoLocationId]"
-                      dataType="i8"
-                      lineageId="Package\Populate DimDevice\Devcies.Outputs[OLE DB Source Error Output].Columns[GeoLocationId]"
-                      name="GeoLocationId" />
                   </outputColumns>
                   <externalMetadataColumns />
                 </output>
@@ -2649,12 +2631,6 @@
                   name="OLE DB Destination Input">
                   <inputColumns>
                     <inputColumn
-                      refId="Package\Populate DimGeoLocation\DimGeoLocations.Inputs[OLE DB Destination Input].Columns[Id]"
-                      cachedDataType="i8"
-                      cachedName="Id"
-                      externalMetadataColumnId="Package\Populate DimGeoLocation\DimGeoLocations.Inputs[OLE DB Destination Input].ExternalColumns[Id]"
-                      lineageId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Output].Columns[Id]" />
-                    <inputColumn
                       refId="Package\Populate DimGeoLocation\DimGeoLocations.Inputs[OLE DB Destination Input].Columns[Latitude]"
                       cachedDataType="wstr"
                       cachedLength="50"
@@ -2668,13 +2644,15 @@
                       cachedName="Longitude"
                       externalMetadataColumnId="Package\Populate DimGeoLocation\DimGeoLocations.Inputs[OLE DB Destination Input].ExternalColumns[Longitude]"
                       lineageId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Output].Columns[Longitude]" />
+                    <inputColumn
+                      refId="Package\Populate DimGeoLocation\DimGeoLocations.Inputs[OLE DB Destination Input].Columns[Id]"
+                      cachedDataType="i8"
+                      cachedName="Id"
+                      externalMetadataColumnId="Package\Populate DimGeoLocation\DimGeoLocations.Inputs[OLE DB Destination Input].ExternalColumns[GeolocationKey]"
+                      lineageId="Package\Populate DimGeoLocation\GeoLocations.Outputs[OLE DB Source Output].Columns[Id]" />
                   </inputColumns>
                   <externalMetadataColumns
                     isUsed="True">
-                    <externalMetadataColumn
-                      refId="Package\Populate DimGeoLocation\DimGeoLocations.Inputs[OLE DB Destination Input].ExternalColumns[Id]"
-                      dataType="i8"
-                      name="Id" />
                     <externalMetadataColumn
                       refId="Package\Populate DimGeoLocation\DimGeoLocations.Inputs[OLE DB Destination Input].ExternalColumns[Latitude]"
                       dataType="wstr"
@@ -2685,6 +2663,10 @@
                       dataType="wstr"
                       length="50"
                       name="Longitude" />
+                    <externalMetadataColumn
+                      refId="Package\Populate DimGeoLocation\DimGeoLocations.Inputs[OLE DB Destination Input].ExternalColumns[GeolocationKey]"
+                      dataType="i8"
+                      name="GeolocationKey" />
                   </externalMetadataColumns>
                 </input>
               </inputs>
@@ -3225,6 +3207,15 @@
                   name="OLE DB Source Output">
                   <outputColumns>
                     <outputColumn
+                      refId="Package\Populate FactDhtMeasurements\DhtMeasurements.Outputs[OLE DB Source Output].Columns[Id]"
+                      dataType="i8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Populate FactDhtMeasurements\DhtMeasurements.Outputs[OLE DB Source Output].ExternalColumns[Id]"
+                      lineageId="Package\Populate FactDhtMeasurements\DhtMeasurements.Outputs[OLE DB Source Output].Columns[Id]"
+                      name="Id"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
                       refId="Package\Populate FactDhtMeasurements\DhtMeasurements.Outputs[OLE DB Source Output].Columns[DeviceId]"
                       dataType="i8"
                       errorOrTruncationOperation="Conversion"
@@ -3241,6 +3232,15 @@
                       externalMetadataColumnId="Package\Populate FactDhtMeasurements\DhtMeasurements.Outputs[OLE DB Source Output].ExternalColumns[MeasureUnixTime]"
                       lineageId="Package\Populate FactDhtMeasurements\DhtMeasurements.Outputs[OLE DB Source Output].Columns[MeasureUnixTime]"
                       name="MeasureUnixTime"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Populate FactDhtMeasurements\DhtMeasurements.Outputs[OLE DB Source Output].Columns[GeoLocationId]"
+                      dataType="i8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Populate FactDhtMeasurements\DhtMeasurements.Outputs[OLE DB Source Output].ExternalColumns[GeoLocationId]"
+                      lineageId="Package\Populate FactDhtMeasurements\DhtMeasurements.Outputs[OLE DB Source Output].Columns[GeoLocationId]"
+                      name="GeoLocationId"
                       truncationRowDisposition="FailComponent" />
                     <outputColumn
                       refId="Package\Populate FactDhtMeasurements\DhtMeasurements.Outputs[OLE DB Source Output].Columns[Temperature]"
@@ -3285,6 +3285,10 @@
                       dataType="i4"
                       name="MeasureUnixTime" />
                     <externalMetadataColumn
+                      refId="Package\Populate FactDhtMeasurements\DhtMeasurements.Outputs[OLE DB Source Output].ExternalColumns[GeoLocationId]"
+                      dataType="i8"
+                      name="GeoLocationId" />
+                    <externalMetadataColumn
                       refId="Package\Populate FactDhtMeasurements\DhtMeasurements.Outputs[OLE DB Source Output].ExternalColumns[Temperature]"
                       dataType="r8"
                       name="Temperature" />
@@ -3304,6 +3308,11 @@
                   name="OLE DB Source Error Output">
                   <outputColumns>
                     <outputColumn
+                      refId="Package\Populate FactDhtMeasurements\DhtMeasurements.Outputs[OLE DB Source Error Output].Columns[Id]"
+                      dataType="i8"
+                      lineageId="Package\Populate FactDhtMeasurements\DhtMeasurements.Outputs[OLE DB Source Error Output].Columns[Id]"
+                      name="Id" />
+                    <outputColumn
                       refId="Package\Populate FactDhtMeasurements\DhtMeasurements.Outputs[OLE DB Source Error Output].Columns[DeviceId]"
                       dataType="i8"
                       lineageId="Package\Populate FactDhtMeasurements\DhtMeasurements.Outputs[OLE DB Source Error Output].Columns[DeviceId]"
@@ -3313,6 +3322,11 @@
                       dataType="i4"
                       lineageId="Package\Populate FactDhtMeasurements\DhtMeasurements.Outputs[OLE DB Source Error Output].Columns[MeasureUnixTime]"
                       name="MeasureUnixTime" />
+                    <outputColumn
+                      refId="Package\Populate FactDhtMeasurements\DhtMeasurements.Outputs[OLE DB Source Error Output].Columns[GeoLocationId]"
+                      dataType="i8"
+                      lineageId="Package\Populate FactDhtMeasurements\DhtMeasurements.Outputs[OLE DB Source Error Output].Columns[GeoLocationId]"
+                      name="GeoLocationId" />
                     <outputColumn
                       refId="Package\Populate FactDhtMeasurements\DhtMeasurements.Outputs[OLE DB Source Error Output].Columns[Temperature]"
                       dataType="r8"
@@ -3436,11 +3450,11 @@
                       externalMetadataColumnId="Package\Populate FactDhtMeasurements\FactDhtMeasurements.Inputs[OLE DB Destination Input].ExternalColumns[TemperatureAlert]"
                       lineageId="Package\Populate FactDhtMeasurements\Sort.Outputs[Sort Output].Columns[TemperatureAlert]" />
                     <inputColumn
-                      refId="Package\Populate FactDhtMeasurements\FactDhtMeasurements.Inputs[OLE DB Destination Input].Columns[DeviceId]"
+                      refId="Package\Populate FactDhtMeasurements\FactDhtMeasurements.Inputs[OLE DB Destination Input].Columns[GeoLocationId]"
                       cachedDataType="i8"
-                      cachedName="DeviceId"
-                      externalMetadataColumnId="Package\Populate FactDhtMeasurements\FactDhtMeasurements.Inputs[OLE DB Destination Input].ExternalColumns[Device]"
-                      lineageId="Package\Populate FactDhtMeasurements\Sort.Outputs[Sort Output].Columns[DeviceId]" />
+                      cachedName="GeoLocationId"
+                      externalMetadataColumnId="Package\Populate FactDhtMeasurements\FactDhtMeasurements.Inputs[OLE DB Destination Input].ExternalColumns[Geolocation]"
+                      lineageId="Package\Populate FactDhtMeasurements\Sort.Outputs[Sort Output].Columns[GeoLocationId]" />
                     <inputColumn
                       refId="Package\Populate FactDhtMeasurements\FactDhtMeasurements.Inputs[OLE DB Destination Input].Columns[MeasureUnixTime]"
                       cachedDataType="i4"
@@ -3448,6 +3462,12 @@
                       cachedSortKeyPosition="1"
                       externalMetadataColumnId="Package\Populate FactDhtMeasurements\FactDhtMeasurements.Inputs[OLE DB Destination Input].ExternalColumns[MeasureTime]"
                       lineageId="Package\Populate FactDhtMeasurements\Sort.Outputs[Sort Output].Columns[MeasureUnixTime]" />
+                    <inputColumn
+                      refId="Package\Populate FactDhtMeasurements\FactDhtMeasurements.Inputs[OLE DB Destination Input].Columns[DeviceId]"
+                      cachedDataType="i8"
+                      cachedName="DeviceId"
+                      externalMetadataColumnId="Package\Populate FactDhtMeasurements\FactDhtMeasurements.Inputs[OLE DB Destination Input].ExternalColumns[Device]"
+                      lineageId="Package\Populate FactDhtMeasurements\Sort.Outputs[Sort Output].Columns[DeviceId]" />
                   </inputColumns>
                   <externalMetadataColumns
                     isUsed="True">
@@ -3467,6 +3487,10 @@
                       refId="Package\Populate FactDhtMeasurements\FactDhtMeasurements.Inputs[OLE DB Destination Input].ExternalColumns[TemperatureAlert]"
                       dataType="i4"
                       name="TemperatureAlert" />
+                    <externalMetadataColumn
+                      refId="Package\Populate FactDhtMeasurements\FactDhtMeasurements.Inputs[OLE DB Destination Input].ExternalColumns[Geolocation]"
+                      dataType="i8"
+                      name="Geolocation" />
                     <externalMetadataColumn
                       refId="Package\Populate FactDhtMeasurements\FactDhtMeasurements.Inputs[OLE DB Destination Input].ExternalColumns[Temperature]"
                       dataType="r8"
@@ -3527,6 +3551,22 @@
                   name="Sort Input">
                   <inputColumns>
                     <inputColumn
+                      refId="Package\Populate FactDhtMeasurements\Sort.Inputs[Sort Input].Columns[Id]"
+                      cachedDataType="i8"
+                      cachedName="Id"
+                      lineageId="Package\Populate FactDhtMeasurements\DhtMeasurements.Outputs[OLE DB Source Output].Columns[Id]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
                       refId="Package\Populate FactDhtMeasurements\Sort.Inputs[Sort Input].Columns[DeviceId]"
                       cachedDataType="i8"
                       cachedName="DeviceId"
@@ -3556,6 +3596,22 @@
                           dataType="System.Int32"
                           description="Specifies the sort order of the column."
                           name="NewSortKeyPosition">1</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Populate FactDhtMeasurements\Sort.Inputs[Sort Input].Columns[GeoLocationId]"
+                      cachedDataType="i8"
+                      cachedName="GeoLocationId"
+                      lineageId="Package\Populate FactDhtMeasurements\DhtMeasurements.Outputs[OLE DB Source Output].Columns[GeoLocationId]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
                       </properties>
                     </inputColumn>
                     <inputColumn
@@ -3617,6 +3673,19 @@
                   name="Sort Output">
                   <outputColumns>
                     <outputColumn
+                      refId="Package\Populate FactDhtMeasurements\Sort.Outputs[Sort Output].Columns[Id]"
+                      dataType="i8"
+                      lineageId="Package\Populate FactDhtMeasurements\Sort.Outputs[Sort Output].Columns[Id]"
+                      name="Id">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Populate FactDhtMeasurements\DhtMeasurements.Outputs[OLE DB Source Output].Columns[Id]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
                       refId="Package\Populate FactDhtMeasurements\Sort.Outputs[Sort Output].Columns[DeviceId]"
                       dataType="i8"
                       lineageId="Package\Populate FactDhtMeasurements\Sort.Outputs[Sort Output].Columns[DeviceId]"
@@ -3641,6 +3710,19 @@
                           dataType="System.Int32"
                           description="Specifies the lineage identifier of the input column that is associated with this output column."
                           name="SortColumnId">#{Package\Populate FactDhtMeasurements\DhtMeasurements.Outputs[OLE DB Source Output].Columns[MeasureUnixTime]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Populate FactDhtMeasurements\Sort.Outputs[Sort Output].Columns[GeoLocationId]"
+                      dataType="i8"
+                      lineageId="Package\Populate FactDhtMeasurements\Sort.Outputs[Sort Output].Columns[GeoLocationId]"
+                      name="GeoLocationId">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Populate FactDhtMeasurements\DhtMeasurements.Outputs[OLE DB Source Output].Columns[GeoLocationId]}</property>
                       </properties>
                     </outputColumn>
                     <outputColumn
@@ -3794,6 +3876,10 @@
           Size="176,42.6666666666667"
           Id="Package\Populate DimDevice"
           TopLeft="307.656245415565,138.039476282461" />
+        <NodeLayout
+          Size="204,42.6666666666667"
+          Id="Package\Populate DimGeoLocation"
+          TopLeft="720.312489266507,139.40789736085" />
         <NodeLayout
           Size="226.666666666667,42.6666666666667"
           Id="Package\Populate DimTemperatureAlert"
@@ -3982,10 +4068,6 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="204,42.6666666666667"
-          Id="Package\Populate DimGeoLocation"
-          TopLeft="720.312489266507,139.40789736085" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 6]"
           TopLeft="468.245828783822,71.0614040432325">
@@ -4061,7 +4143,7 @@
     design-time-name="Package\Populate DimDateTime">
     <LayoutInfo>
       <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="98.6666666666667,42.6666666666667"
           Id="Package\Populate DimDateTime\Sort"
@@ -4093,9 +4175,7 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -4117,9 +4197,7 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -4157,105 +4235,61 @@
       <GraphLayout
         Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
-          Size="98.6666666666667,42.6666666666667"
-          Id="Package\Populate DimDevice\Sort"
-          TopLeft="34,95" />
-        <NodeLayout
-          Size="108,42.6666666666667"
-          Id="Package\Populate DimDevice\Sort 5"
-          TopLeft="477.083334680647,115.688593469058" />
-        <NodeLayout
           Size="146.666666666667,42.6666666666667"
           Id="Package\Populate DimDevice\DeviceModels"
           TopLeft="462.833334680647,21.1885934690579" />
-        <NodeLayout
-          Size="141.333333333334,42.6666666666667"
-          Id="Package\Populate DimDevice\Merge Join 2"
-          TopLeft="564.583334680647,200.688593469058" />
         <NodeLayout
           Size="108,42.6666666666667"
           Id="Package\Populate DimDevice\Sort 1"
           TopLeft="201,98" />
         <NodeLayout
           Size="141.333333333334,42.6666666666667"
-          Id="Package\Populate DimDevice\DeviceTypes"
-          TopLeft="185,20" />
+          Id="Package\Populate DimDevice\Merge Join 3"
+          TopLeft="334.16666801398,381.105260135725" />
         <NodeLayout
           Size="108,42.6666666666667"
-          Id="Package\Populate DimDevice\Sort 4"
-          TopLeft="683.333334680647,114.438593469058" />
-        <NodeLayout
-          Size="108,42.6666666666667"
-          Id="Package\Populate DimDevice\Sort 6"
-          TopLeft="117.678572974567,383.654134385332" />
-        <NodeLayout
-          Size="108,42.6666666666667"
-          Id="Package\Populate DimDevice\Sort 7"
-          TopLeft="575.297620394933,279.438593469058" />
+          Id="Package\Populate DimDevice\Sort 5"
+          TopLeft="477.083334680647,115.688593469058" />
         <NodeLayout
           Size="132,42.6666666666667"
           Id="Package\Populate DimDevice\Merge Join"
           TopLeft="100.5,189.75" />
         <NodeLayout
           Size="141.333333333334,42.6666666666667"
-          Id="Package\Populate DimDevice\Merge Join 3"
-          TopLeft="334.16666801398,381.105260135725" />
-        <NodeLayout
-          Size="152,42.6666666666667"
-          Id="Package\Populate DimDevice\DeviceVendors"
-          TopLeft="656.833334680647,20.1885934690579" />
+          Id="Package\Populate DimDevice\DeviceTypes"
+          TopLeft="185,20" />
         <NodeLayout
           Size="174.666666666667,42.6666666666667"
           Id="Package\Populate DimDevice\OLE DB Destination"
           TopLeft="316.369049722063,472.887841019022" />
         <NodeLayout
+          Size="108,42.6666666666667"
+          Id="Package\Populate DimDevice\Sort 4"
+          TopLeft="683.333334680647,114.438593469058" />
+        <NodeLayout
+          Size="108,42.6666666666667"
+          Id="Package\Populate DimDevice\Sort 7"
+          TopLeft="575.297620394933,279.438593469058" />
+        <NodeLayout
+          Size="141.333333333334,42.6666666666667"
+          Id="Package\Populate DimDevice\Merge Join 2"
+          TopLeft="564.583334680647,200.688593469058" />
+        <NodeLayout
+          Size="108,42.6666666666667"
+          Id="Package\Populate DimDevice\Sort 6"
+          TopLeft="117.678572974567,383.654134385332" />
+        <NodeLayout
+          Size="98.6666666666667,42.6666666666667"
+          Id="Package\Populate DimDevice\Sort"
+          TopLeft="34,95" />
+        <NodeLayout
+          Size="152,42.6666666666667"
+          Id="Package\Populate DimDevice\DeviceVendors"
+          TopLeft="656.833334680647,20.1885934690579" />
+        <NodeLayout
           Size="117.333333333334,42.6666666666667"
           Id="Package\Populate DimDevice\Devcies"
           TopLeft="28,21" />
-        <EdgeLayout
-          Id="Package\Populate DimDevice.Paths[Merge Join Output1]"
-          TopLeft="632.273810871123,243.355260135725">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,36.0833333333334"
-              Start="0,0"
-              End="0,28.5833333333334">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,28.5833333333334" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Populate DimDevice.Paths[Merge Join Output]"
-          TopLeft="404.267858868021,423.771926802392">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,49.1159142166306"
-              Start="0,0"
-              End="0,41.6159142166306">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,41.6159142166306" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
         <EdgeLayout
           Id="Package\Populate DimDevice.Paths[Sort Output5]"
           TopLeft="225.678572974567,403.713030593862">
@@ -4558,6 +4592,50 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Populate DimDevice.Paths[Merge Join Output1]"
+          TopLeft="632.273810871123,243.355260135725">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,36.0833333333334"
+              Start="0,0"
+              End="0,28.5833333333334">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,28.5833333333334" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Populate DimDevice.Paths[Merge Join Output]"
+          TopLeft="404.267858868021,423.771926802392">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,49.1159142166306"
+              Start="0,0"
+              End="0,41.6159142166306">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,41.6159142166306" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
@@ -4588,19 +4666,6 @@
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\Populate DimDevice\DeviceVendors">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
     design-time-name="Package\Populate DimDevice\OLE DB Destination">
     <Properties>
       <Property>
@@ -4614,161 +4679,20 @@
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
+    design-time-name="Package\Populate DimDevice\DeviceVendors">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
     design-time-name="Package\Populate DimDevice\Devcies">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
-    design-time-name="Package\Populate DimTemperatureAlert">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <NodeLayout
-          Size="168,42.6666666666667"
-          Id="Package\Populate DimTemperatureAlert\TemperatureAlerts"
-          TopLeft="315,62" />
-        <NodeLayout
-          Size="186.666666666667,42.6666666666667"
-          Id="Package\Populate DimTemperatureAlert\DimTemperatureAlerts"
-          TopLeft="310,176" />
-        <EdgeLayout
-          Id="Package\Populate DimTemperatureAlert.Paths[OLE DB Source Output]"
-          TopLeft="401.166666666667,104.666666666667">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,71.3333333333333"
-              Start="0,0"
-              End="0,63.8333333333333">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,63.8333333333333" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\Populate DimTemperatureAlert\DimTemperatureAlerts">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Populate DimTemperatureAlert\TemperatureAlerts">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
-    design-time-name="Package\Populate FactDhtMeasurements">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <NodeLayout
-          Size="188,42.6666666666667"
-          Id="Package\Populate FactDhtMeasurements\FactDhtMeasurements"
-          TopLeft="215.750003967434,236.999999510614" />
-        <NodeLayout
-          Size="98.6666666666667,42.6666666666667"
-          Id="Package\Populate FactDhtMeasurements\Sort"
-          TopLeft="256.500003911555,159.105262990473" />
-        <NodeLayout
-          Size="166.666666666667,42.6666666666667"
-          Id="Package\Populate FactDhtMeasurements\DhtMeasurements"
-          TopLeft="226.500003911555,76.4736843135549" />
-        <EdgeLayout
-          Id="Package\Populate FactDhtMeasurements.Paths[Sort Output]"
-          TopLeft="307.791670606161,201.77192965714">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,35.2280698534744"
-              Start="0,0"
-              End="0,27.7280698534744">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,27.7280698534744" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Populate FactDhtMeasurements.Paths[OLE DB Source Output]"
-          TopLeft="307.833337244888,119.140350980222">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,39.9649120102519"
-              Start="0,0"
-              End="0,32.4649120102519">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,32.4649120102519" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\Populate FactDhtMeasurements\FactDhtMeasurements">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Populate FactDhtMeasurements\DhtMeasurements">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -4819,7 +4743,7 @@
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\Populate DimGeoLocation\GeoLocations">
+    design-time-name="Package\Populate DimGeoLocation\DimGeoLocations">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -4832,7 +4756,175 @@
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\Populate DimGeoLocation\DimGeoLocations">
+    design-time-name="Package\Populate DimGeoLocation\GeoLocations">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
+    design-time-name="Package\Populate DimTemperatureAlert">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="168,42.6666666666667"
+          Id="Package\Populate DimTemperatureAlert\TemperatureAlerts"
+          TopLeft="315,62" />
+        <NodeLayout
+          Size="186.666666666667,42.6666666666667"
+          Id="Package\Populate DimTemperatureAlert\DimTemperatureAlerts"
+          TopLeft="310,176" />
+        <EdgeLayout
+          Id="Package\Populate DimTemperatureAlert.Paths[OLE DB Source Output]"
+          TopLeft="401.166666666667,104.666666666667">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,71.3333333333333"
+              Start="0,0"
+              End="0,63.8333333333333">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,63.8333333333333" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Populate DimTemperatureAlert\DimTemperatureAlerts">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Populate DimTemperatureAlert\TemperatureAlerts">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
+    design-time-name="Package\Populate FactDhtMeasurements">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="166.666666666667,42.6666666666667"
+          Id="Package\Populate FactDhtMeasurements\DhtMeasurements"
+          TopLeft="404,57" />
+        <NodeLayout
+          Size="98.6666666666667,42.6666666666667"
+          Id="Package\Populate FactDhtMeasurements\Sort"
+          TopLeft="446,164" />
+        <EdgeLayout
+          Id="Package\Populate FactDhtMeasurements.Paths[OLE DB Source Output]"
+          TopLeft="491.333333333333,99.6666666666667">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,64.3333333333333"
+              Start="0,0"
+              End="0,56.8333333333333">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,56.8333333333333" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="188,42.6666666666667"
+          Id="Package\Populate FactDhtMeasurements\FactDhtMeasurements"
+          TopLeft="412,258" />
+        <EdgeLayout
+          Id="Package\Populate FactDhtMeasurements.Paths[Sort Output]"
+          TopLeft="495.333333333333,206.666666666667">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="10.6666666666668,51.3333333333334"
+              Start="0,0"
+              End="10.6666666666668,43.8333333333334">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,21.6666666666667" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,21.6666666666667"
+                    Point2="0,25.6666666666667"
+                    Point3="4,25.6666666666667" />
+                  <mssgle:LineSegment
+                    End="6.6666666666668,25.6666666666667" />
+                  <mssgle:CubicBezierSegment
+                    Point1="6.6666666666668,25.6666666666667"
+                    Point2="10.6666666666668,25.6666666666667"
+                    Point3="10.6666666666668,29.6666666666667" />
+                  <mssgle:LineSegment
+                    End="10.6666666666668,43.8333333333334" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Populate FactDhtMeasurements\DhtMeasurements">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Populate FactDhtMeasurements\FactDhtMeasurements">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
