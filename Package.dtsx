@@ -11,8 +11,8 @@
   DTS:LocaleID="2057"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="22"
-  DTS:VersionGUID="{686DB811-A6F2-4E3F-819F-AFA88DBCBEC5}">
+  DTS:VersionBuild="23"
+  DTS:VersionGUID="{B2B5266C-121F-47C5-A51A-7FE576F48C59}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -27,7 +27,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2JOriuk+YEaNFP0gjA6QqwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABQ73ma6ucw6XL0gfD8EevwnkgS+ekRUyQ8fqi4XV6hFAAAAAAOgAAAAAIAACAAAABVFl2/sxp2sCzmJ8FJUFMWP5ODbdjsB88NHh+/OCQxJSAAAADIIkXx6JZ1VrXFpkYque+yhd4JRNPvkJ/1649nE6PkCUAAAAARW07MV+QUQ4DaguXmZ3PbK8FD8kGweMFfYFlZsuSfeY7HBR/6ngwLQBJV68rRsnGMvIwn/bvBB3SEnHUM3SgL</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2JOriuk+YEaNFP0gjA6QqwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADYDSEG4bDjvhMSmXlEt8qJsj3pEMPV8UF7eJsE/Pr6TQAAAAAOgAAAAAIAACAAAAC/OCX4KsJxJjok6H9TBHLOaBfLbK0q+ITrPPDAYhK0kCAAAADUkA/r0nr/7eb/vN8LO1WcsEiTAk6yxHxVyVf8QWCxnkAAAABIteuxMnFmjBHarmxeZI7ewyFcOO36a/P7vnGZKnDE7Bw0vyp3P3a7reXZIpfyIWpsB24dOQO3eeHQTpDnIixd</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -42,7 +42,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2JOriuk+YEaNFP0gjA6QqwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADpL5hOcj1sLJv/bGbf04oL0i/QsIJEiDZ7uYGI7LN2ZgAAAAAOgAAAAAIAACAAAACOs53ltEIdVjADKYEk3Jawf5xx6antThY58PpTosjxiSAAAAD3vvlYzL8lNPshInCQWKjLqUqGU1thY5sqRzqlfXpWV0AAAAAoQFGNX1qWvFyorlJuv5K+vkydItx0fA1PyoPGycjz4yvxLTBk8VTYkUu75p60vfOgKmpTuJX7KWsqA8p35sDI</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2JOriuk+YEaNFP0gjA6QqwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADhnuUjV5BvJC1c9edw+YSEqOaWQhwn5pMnZOVWtA7cPQAAAAAOgAAAAAIAACAAAACry3P8iWwwBOO0LH5J2IjBB+0tXfo2Ljsm7d4arLV04CAAAADcu7fxJ8Wq68O0cbu27TM3c/fIYgCQiHEKfUZ/lbd+6EAAAAA2RJQ10IBLdLDPyTw0AOVzVELzp9wS9r8jK86ZbfT2ydqFKg2vQFKVJPGBJAQ9tBZVOiVCjZ+FxCm9ElT5jun5</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -57,7 +57,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2JOriuk+YEaNFP0gjA6QqwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADh2K0029HiqlvhGUvMukr883kJWBBYBfuGrP4Yqk9CxwAAAAAOgAAAAAIAACAAAAC8k8JCL/ts0h0Xr/qe6VIDUbkvBKOB5hUsgv2oR9NduiAAAACdGpw04crWtIVT3QxajYxvDfPx60XiyjYWex/uVRp4sEAAAAD1e149ruMqmCeU268Gv4C61Q4eQlpHzbHLWiz8ZiuOnqfFwrkP5UiOGwaEcRyiBD+dNUCZ4LSU3X65FnDeQZrG</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2JOriuk+YEaNFP0gjA6QqwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAC/nBvZtmXY6Z1wDqDO/h0EJHwbs9xeCWtRKShziZsLDQAAAAAOgAAAAAIAACAAAADfHiIAdOwuxhBxFZl2I4gtcNcb6mpDeIdZNynwiLQ0qSAAAADF4YbxOnEpWow1TL8IXwn6dd31RcfD9n1zc/+S+95Y0UAAAADMgc0IDUSCRvyRI3KlC6+e8Ctr2PGFZGTqIp4stmNbHjJc0+IosRnX9KnNgLRNPOw5oOrXJ0Fu3eBjKJCsnfqj</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -72,7 +72,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2JOriuk+YEaNFP0gjA6QqwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAUZ5VLQ7vaL/z1kOpmgRLjhig5N+ZfuSpWKDzgMcu8iwAAAAAOgAAAAAIAACAAAAAB9tfcisaZSY+XHwSgfCgxQ2bpsRdzbSOhjVTAd6kcpSAAAAAcdNmvIMbSeyaZ8L1YFS5OCw8Msu1yJ3sEAZoF1DSIr0AAAAC77EuqluYHAWSAHK+b8Fvfncl3tcFsVF0ZjGLUb6lxUJUfVbxTtp3/Wji2z/7czR46/9eucL//dYEMBlPKxfh6</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2JOriuk+YEaNFP0gjA6QqwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAcsR+KG4TNPuq4Cm6M6den+kq4l883Fxu0kcYbezP0WQAAAAAOgAAAAAIAACAAAAAcW5PF3xbf+UtAavKlETRmlHcPNVN+Bwej382Nkw7JHCAAAACdurveYTpJyHfabGGDwQf9JGwb6m4kcHcr9mRFMYGQakAAAAB+tdQVhn7e2D+BUrlloZf8p5/H3xzNVzOEz6ZeeR0H2BZ9+pD3jSGIccqoUMGtwpRanJqXITByOPCgAD+7hE/e</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -111,11 +111,11 @@
           version="1">
           <components>
             <component
-              refId="Package\Populate DimDateTime\OLE DB Destination"
+              refId="Package\Populate DimDateTime\DimTimeTable"
               componentClassID="Microsoft.OLEDBDestination"
               contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
               description="OLE DB Destination"
-              name="OLE DB Destination"
+              name="DimTimeTable"
               usesDispositions="true"
               version="4">
               <properties>
@@ -168,7 +168,7 @@
               </properties>
               <connections>
                 <connection
-                  refId="Package\Populate DimDateTime\OLE DB Destination.Connections[OleDbConnection]"
+                  refId="Package\Populate DimDateTime\DimTimeTable.Connections[OleDbConnection]"
                   connectionManagerID="Package.ConnectionManagers[ns-bigd.database.windows.net.Neils-SqlDW.amir]"
                   connectionManagerRefId="Package.ConnectionManagers[ns-bigd.database.windows.net.Neils-SqlDW.amir]"
                   description="The OLE DB runtime connection used to access the database."
@@ -176,84 +176,84 @@
               </connections>
               <inputs>
                 <input
-                  refId="Package\Populate DimDateTime\OLE DB Destination.Inputs[OLE DB Destination Input]"
+                  refId="Package\Populate DimDateTime\DimTimeTable.Inputs[OLE DB Destination Input]"
                   errorOrTruncationOperation="Insert"
                   errorRowDisposition="FailComponent"
                   hasSideEffects="true"
                   name="OLE DB Destination Input">
                   <inputColumns>
                     <inputColumn
-                      refId="Package\Populate DimDateTime\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[UnixUtcTime]"
+                      refId="Package\Populate DimDateTime\DimTimeTable.Inputs[OLE DB Destination Input].Columns[UnixUtcTime]"
                       cachedDataType="i4"
                       cachedName="UnixUtcTime"
                       cachedSortKeyPosition="1"
-                      externalMetadataColumnId="Package\Populate DimDateTime\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[UnixUtcTimeKey]"
+                      externalMetadataColumnId="Package\Populate DimDateTime\DimTimeTable.Inputs[OLE DB Destination Input].ExternalColumns[UnixUtcTimeKey]"
                       lineageId="Package\Populate DimDateTime\Sort.Outputs[Sort Output].Columns[UnixUtcTime]" />
                   </inputColumns>
                   <externalMetadataColumns
                     isUsed="True">
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[UnixUtcTimeKey]"
+                      refId="Package\Populate DimDateTime\DimTimeTable.Inputs[OLE DB Destination Input].ExternalColumns[UnixUtcTimeKey]"
                       dataType="i4"
                       name="UnixUtcTimeKey" />
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[UtcDateTime]"
+                      refId="Package\Populate DimDateTime\DimTimeTable.Inputs[OLE DB Destination Input].ExternalColumns[UtcDateTime]"
                       dataType="dbTimeStamp"
                       name="UtcDateTime" />
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Date]"
+                      refId="Package\Populate DimDateTime\DimTimeTable.Inputs[OLE DB Destination Input].ExternalColumns[Date]"
                       dataType="dbDate"
                       name="Date" />
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Year]"
+                      refId="Package\Populate DimDateTime\DimTimeTable.Inputs[OLE DB Destination Input].ExternalColumns[Year]"
                       dataType="i4"
                       name="Year" />
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Quarter]"
+                      refId="Package\Populate DimDateTime\DimTimeTable.Inputs[OLE DB Destination Input].ExternalColumns[Quarter]"
                       dataType="i4"
                       name="Quarter" />
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[QuarterName]"
+                      refId="Package\Populate DimDateTime\DimTimeTable.Inputs[OLE DB Destination Input].ExternalColumns[QuarterName]"
                       codePage="1252"
                       dataType="str"
                       length="2"
                       name="QuarterName" />
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Month]"
+                      refId="Package\Populate DimDateTime\DimTimeTable.Inputs[OLE DB Destination Input].ExternalColumns[Month]"
                       dataType="i4"
                       name="Month" />
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[MonthName]"
+                      refId="Package\Populate DimDateTime\DimTimeTable.Inputs[OLE DB Destination Input].ExternalColumns[MonthName]"
                       dataType="wstr"
                       length="30"
                       name="MonthName" />
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[WeekdayOfMonth]"
+                      refId="Package\Populate DimDateTime\DimTimeTable.Inputs[OLE DB Destination Input].ExternalColumns[WeekdayOfMonth]"
                       dataType="i4"
                       name="WeekdayOfMonth" />
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[WeekdayName]"
+                      refId="Package\Populate DimDateTime\DimTimeTable.Inputs[OLE DB Destination Input].ExternalColumns[WeekdayName]"
                       dataType="wstr"
                       length="30"
                       name="WeekdayName" />
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[DayOfWeek]"
+                      refId="Package\Populate DimDateTime\DimTimeTable.Inputs[OLE DB Destination Input].ExternalColumns[DayOfWeek]"
                       dataType="i4"
                       name="DayOfWeek" />
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[DayOfYear]"
+                      refId="Package\Populate DimDateTime\DimTimeTable.Inputs[OLE DB Destination Input].ExternalColumns[DayOfYear]"
                       dataType="i4"
                       name="DayOfYear" />
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Hour]"
+                      refId="Package\Populate DimDateTime\DimTimeTable.Inputs[OLE DB Destination Input].ExternalColumns[Hour]"
                       dataType="i4"
                       name="Hour" />
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Minute]"
+                      refId="Package\Populate DimDateTime\DimTimeTable.Inputs[OLE DB Destination Input].ExternalColumns[Minute]"
                       dataType="i4"
                       name="Minute" />
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Second]"
+                      refId="Package\Populate DimDateTime\DimTimeTable.Inputs[OLE DB Destination Input].ExternalColumns[Second]"
                       dataType="i4"
                       name="Second" />
                   </externalMetadataColumns>
@@ -261,22 +261,22 @@
               </inputs>
               <outputs>
                 <output
-                  refId="Package\Populate DimDateTime\OLE DB Destination.Outputs[OLE DB Destination Error Output]"
+                  refId="Package\Populate DimDateTime\DimTimeTable.Outputs[OLE DB Destination Error Output]"
                   exclusionGroup="1"
                   isErrorOut="true"
                   name="OLE DB Destination Error Output"
-                  synchronousInputId="Package\Populate DimDateTime\OLE DB Destination.Inputs[OLE DB Destination Input]">
+                  synchronousInputId="Package\Populate DimDateTime\DimTimeTable.Inputs[OLE DB Destination Input]">
                   <outputColumns>
                     <outputColumn
-                      refId="Package\Populate DimDateTime\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      refId="Package\Populate DimDateTime\DimTimeTable.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
                       dataType="i4"
-                      lineageId="Package\Populate DimDateTime\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      lineageId="Package\Populate DimDateTime\DimTimeTable.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
                       name="ErrorCode"
                       specialFlags="1" />
                     <outputColumn
-                      refId="Package\Populate DimDateTime\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      refId="Package\Populate DimDateTime\DimTimeTable.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
                       dataType="i4"
-                      lineageId="Package\Populate DimDateTime\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      lineageId="Package\Populate DimDateTime\DimTimeTable.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
                       name="ErrorColumn"
                       specialFlags="2" />
                   </outputColumns>
@@ -285,11 +285,79 @@
               </outputs>
             </component>
             <component
-              refId="Package\Populate DimDateTime\OLE DB Source"
+              refId="Package\Populate DimDateTime\Sort"
+              componentClassID="Microsoft.Sort"
+              contactInfo="Sort;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
+              description="Sorts input data in ascending or descending order when it cannot be sorted at its source. For example, sort sales data by 'customer id' before it is written to a flat file and delivered to another department. Note: We do not recommend this transformation for large data flows."
+              name="Sort"
+              version="1">
+              <properties>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the Sort transformation removes rows with duplicate sort values."
+                  name="EliminateDuplicates">true</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the maximum number of threads to use for sorting."
+                  expressionType="Notify"
+                  name="MaximumThreads">-1</property>
+              </properties>
+              <inputs>
+                <input
+                  refId="Package\Populate DimDateTime\Sort.Inputs[Sort Input]"
+                  name="Sort Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Populate DimDateTime\Sort.Inputs[Sort Input].Columns[UnixUtcTime]"
+                      cachedDataType="i4"
+                      cachedName="UnixUtcTime"
+                      lineageId="Package\Populate DimDateTime\Timetable.Outputs[OLE DB Source Output].Columns[UnixUtcTime]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">1</property>
+                      </properties>
+                    </inputColumn>
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Populate DimDateTime\Sort.Outputs[Sort Output]"
+                  isSorted="true"
+                  name="Sort Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Populate DimDateTime\Sort.Outputs[Sort Output].Columns[UnixUtcTime]"
+                      dataType="i4"
+                      lineageId="Package\Populate DimDateTime\Sort.Outputs[Sort Output].Columns[UnixUtcTime]"
+                      name="UnixUtcTime"
+                      sortKeyPosition="1">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Populate DimDateTime\Timetable.Outputs[OLE DB Source Output].Columns[UnixUtcTime]}</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Populate DimDateTime\Timetable"
               componentClassID="Microsoft.OLEDBSource"
               contactInfo="OLE DB Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;7"
               description="OLE DB Source"
-              name="OLE DB Source"
+              name="Timetable"
               usesDispositions="true"
               version="7">
               <properties>
@@ -334,7 +402,7 @@
               </properties>
               <connections>
                 <connection
-                  refId="Package\Populate DimDateTime\OLE DB Source.Connections[OleDbConnection]"
+                  refId="Package\Populate DimDateTime\Timetable.Connections[OleDbConnection]"
                   connectionManagerID="Package.ConnectionManagers[ns-bigd.database.windows.net.Neils-BIGDATA.amir]"
                   connectionManagerRefId="Package.ConnectionManagers[ns-bigd.database.windows.net.Neils-BIGDATA.amir]"
                   description="The OLE DB runtime connection used to access the database."
@@ -342,177 +410,109 @@
               </connections>
               <outputs>
                 <output
-                  refId="Package\Populate DimDateTime\OLE DB Source.Outputs[OLE DB Source Output]"
+                  refId="Package\Populate DimDateTime\Timetable.Outputs[OLE DB Source Output]"
                   name="OLE DB Source Output">
                   <outputColumns>
                     <outputColumn
-                      refId="Package\Populate DimDateTime\OLE DB Source.Outputs[OLE DB Source Output].Columns[UnixUtcTime]"
+                      refId="Package\Populate DimDateTime\Timetable.Outputs[OLE DB Source Output].Columns[UnixUtcTime]"
                       dataType="i4"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Populate DimDateTime\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[UnixUtcTime]"
-                      lineageId="Package\Populate DimDateTime\OLE DB Source.Outputs[OLE DB Source Output].Columns[UnixUtcTime]"
+                      externalMetadataColumnId="Package\Populate DimDateTime\Timetable.Outputs[OLE DB Source Output].ExternalColumns[UnixUtcTime]"
+                      lineageId="Package\Populate DimDateTime\Timetable.Outputs[OLE DB Source Output].Columns[UnixUtcTime]"
                       name="UnixUtcTime"
                       truncationRowDisposition="FailComponent" />
                   </outputColumns>
                   <externalMetadataColumns
                     isUsed="True">
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[UnixUtcTime]"
+                      refId="Package\Populate DimDateTime\Timetable.Outputs[OLE DB Source Output].ExternalColumns[UnixUtcTime]"
                       dataType="i4"
                       name="UnixUtcTime" />
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[UtcDateTime]"
+                      refId="Package\Populate DimDateTime\Timetable.Outputs[OLE DB Source Output].ExternalColumns[UtcDateTime]"
                       dataType="dbTimeStamp"
                       name="UtcDateTime" />
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[Date]"
+                      refId="Package\Populate DimDateTime\Timetable.Outputs[OLE DB Source Output].ExternalColumns[Date]"
                       dataType="dbDate"
                       name="Date" />
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[Year]"
+                      refId="Package\Populate DimDateTime\Timetable.Outputs[OLE DB Source Output].ExternalColumns[Year]"
                       dataType="i4"
                       name="Year" />
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[Quarter]"
+                      refId="Package\Populate DimDateTime\Timetable.Outputs[OLE DB Source Output].ExternalColumns[Quarter]"
                       dataType="i4"
                       name="Quarter" />
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[QuarterName]"
+                      refId="Package\Populate DimDateTime\Timetable.Outputs[OLE DB Source Output].ExternalColumns[QuarterName]"
                       codePage="1252"
                       dataType="str"
                       length="2"
                       name="QuarterName" />
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[Month]"
+                      refId="Package\Populate DimDateTime\Timetable.Outputs[OLE DB Source Output].ExternalColumns[Month]"
                       dataType="i4"
                       name="Month" />
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[MonthName]"
+                      refId="Package\Populate DimDateTime\Timetable.Outputs[OLE DB Source Output].ExternalColumns[MonthName]"
                       dataType="wstr"
                       length="30"
                       name="MonthName" />
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[WeekdayOfMonth]"
+                      refId="Package\Populate DimDateTime\Timetable.Outputs[OLE DB Source Output].ExternalColumns[WeekdayOfMonth]"
                       dataType="i4"
                       name="WeekdayOfMonth" />
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[WeekdayName]"
+                      refId="Package\Populate DimDateTime\Timetable.Outputs[OLE DB Source Output].ExternalColumns[WeekdayName]"
                       dataType="wstr"
                       length="30"
                       name="WeekdayName" />
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DayOfWeek]"
+                      refId="Package\Populate DimDateTime\Timetable.Outputs[OLE DB Source Output].ExternalColumns[DayOfWeek]"
                       dataType="i4"
                       name="DayOfWeek" />
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DayOfYear]"
+                      refId="Package\Populate DimDateTime\Timetable.Outputs[OLE DB Source Output].ExternalColumns[DayOfYear]"
                       dataType="i4"
                       name="DayOfYear" />
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[Hour]"
+                      refId="Package\Populate DimDateTime\Timetable.Outputs[OLE DB Source Output].ExternalColumns[Hour]"
                       dataType="i4"
                       name="Hour" />
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[Minute]"
+                      refId="Package\Populate DimDateTime\Timetable.Outputs[OLE DB Source Output].ExternalColumns[Minute]"
                       dataType="i4"
                       name="Minute" />
                     <externalMetadataColumn
-                      refId="Package\Populate DimDateTime\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[Second]"
+                      refId="Package\Populate DimDateTime\Timetable.Outputs[OLE DB Source Output].ExternalColumns[Second]"
                       dataType="i4"
                       name="Second" />
                   </externalMetadataColumns>
                 </output>
                 <output
-                  refId="Package\Populate DimDateTime\OLE DB Source.Outputs[OLE DB Source Error Output]"
+                  refId="Package\Populate DimDateTime\Timetable.Outputs[OLE DB Source Error Output]"
                   isErrorOut="true"
                   name="OLE DB Source Error Output">
                   <outputColumns>
                     <outputColumn
-                      refId="Package\Populate DimDateTime\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
+                      refId="Package\Populate DimDateTime\Timetable.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
                       dataType="i4"
-                      lineageId="Package\Populate DimDateTime\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
+                      lineageId="Package\Populate DimDateTime\Timetable.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
                       name="ErrorCode"
                       specialFlags="1" />
                     <outputColumn
-                      refId="Package\Populate DimDateTime\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
+                      refId="Package\Populate DimDateTime\Timetable.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
                       dataType="i4"
-                      lineageId="Package\Populate DimDateTime\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
+                      lineageId="Package\Populate DimDateTime\Timetable.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
                       name="ErrorColumn"
                       specialFlags="2" />
                     <outputColumn
-                      refId="Package\Populate DimDateTime\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[UnixUtcTime]"
+                      refId="Package\Populate DimDateTime\Timetable.Outputs[OLE DB Source Error Output].Columns[UnixUtcTime]"
                       dataType="i4"
-                      lineageId="Package\Populate DimDateTime\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[UnixUtcTime]"
+                      lineageId="Package\Populate DimDateTime\Timetable.Outputs[OLE DB Source Error Output].Columns[UnixUtcTime]"
                       name="UnixUtcTime" />
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-              </outputs>
-            </component>
-            <component
-              refId="Package\Populate DimDateTime\Sort"
-              componentClassID="Microsoft.Sort"
-              contactInfo="Sort;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
-              description="Sorts input data in ascending or descending order when it cannot be sorted at its source. For example, sort sales data by 'customer id' before it is written to a flat file and delivered to another department. Note: We do not recommend this transformation for large data flows."
-              name="Sort"
-              version="1">
-              <properties>
-                <property
-                  dataType="System.Boolean"
-                  description="Indicates whether the Sort transformation removes rows with duplicate sort values."
-                  name="EliminateDuplicates">true</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the maximum number of threads to use for sorting."
-                  expressionType="Notify"
-                  name="MaximumThreads">-1</property>
-              </properties>
-              <inputs>
-                <input
-                  refId="Package\Populate DimDateTime\Sort.Inputs[Sort Input]"
-                  name="Sort Input">
-                  <inputColumns>
-                    <inputColumn
-                      refId="Package\Populate DimDateTime\Sort.Inputs[Sort Input].Columns[UnixUtcTime]"
-                      cachedDataType="i4"
-                      cachedName="UnixUtcTime"
-                      lineageId="Package\Populate DimDateTime\OLE DB Source.Outputs[OLE DB Source Output].Columns[UnixUtcTime]">
-                      <properties>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the comparison options for character data."
-                          name="NewComparisonFlags">0</property>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the sort order of the column."
-                          name="NewSortKeyPosition">1</property>
-                      </properties>
-                    </inputColumn>
-                  </inputColumns>
-                  <externalMetadataColumns />
-                </input>
-              </inputs>
-              <outputs>
-                <output
-                  refId="Package\Populate DimDateTime\Sort.Outputs[Sort Output]"
-                  isSorted="true"
-                  name="Sort Output">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\Populate DimDateTime\Sort.Outputs[Sort Output].Columns[UnixUtcTime]"
-                      dataType="i4"
-                      lineageId="Package\Populate DimDateTime\Sort.Outputs[Sort Output].Columns[UnixUtcTime]"
-                      name="UnixUtcTime"
-                      sortKeyPosition="1">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Specifies the lineage identifier of the input column that is associated with this output column."
-                          name="SortColumnId">#{Package\Populate DimDateTime\OLE DB Source.Outputs[OLE DB Source Output].Columns[UnixUtcTime]}</property>
-                      </properties>
-                    </outputColumn>
                   </outputColumns>
                   <externalMetadataColumns />
                 </output>
@@ -524,10 +524,10 @@
               refId="Package\Populate DimDateTime.Paths[OLE DB Source Output]"
               endId="Package\Populate DimDateTime\Sort.Inputs[Sort Input]"
               name="OLE DB Source Output"
-              startId="Package\Populate DimDateTime\OLE DB Source.Outputs[OLE DB Source Output]" />
+              startId="Package\Populate DimDateTime\Timetable.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\Populate DimDateTime.Paths[Sort Output]"
-              endId="Package\Populate DimDateTime\OLE DB Destination.Inputs[OLE DB Destination Input]"
+              endId="Package\Populate DimDateTime\DimTimeTable.Inputs[OLE DB Destination Input]"
               name="Sort Output"
               startId="Package\Populate DimDateTime\Sort.Outputs[Sort Output]" />
           </paths>
@@ -1111,6 +1111,167 @@
               </outputs>
             </component>
             <component
+              refId="Package\Populate DimDevice\DimDevice"
+              componentClassID="Microsoft.OLEDBDestination"
+              contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
+              description="OLE DB Destination"
+              name="DimDevice"
+              usesDispositions="true"
+              version="4">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of the database object used to open a rowset."
+                  name="OpenRowset">[dbo].[DimDevice]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the variable that contains the name of the database object used to open a rowset."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="The SQL command to be executed."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1252</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Forces the use of the DefaultCodePage property value when describing character data."
+                  name="AlwaysUseDefaultCodePage">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the mode used to access the database."
+                  name="AccessMode"
+                  typeConverter="AccessMode">0</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepIdentity">false</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepNulls">false</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
+                  name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
+                  name="FastLoadMaxInsertCommitSize">2147483647</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Populate DimDevice\DimDevice.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[ns-bigd.database.windows.net.Neils-SqlDW.amir]"
+                  connectionManagerRefId="Package.ConnectionManagers[ns-bigd.database.windows.net.Neils-SqlDW.amir]"
+                  description="The OLE DB runtime connection used to access the database."
+                  name="OleDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\Populate DimDevice\DimDevice.Inputs[OLE DB Destination Input]"
+                  errorOrTruncationOperation="Insert"
+                  errorRowDisposition="FailComponent"
+                  hasSideEffects="true"
+                  name="OLE DB Destination Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Populate DimDevice\DimDevice.Inputs[OLE DB Destination Input].Columns[DeviceName]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="DeviceName"
+                      externalMetadataColumnId="Package\Populate DimDevice\DimDevice.Inputs[OLE DB Destination Input].ExternalColumns[DeviceName]"
+                      lineageId="Package\Populate DimDevice\Merge Join 3.Outputs[Merge Join Output].Columns[DeviceName]" />
+                    <inputColumn
+                      refId="Package\Populate DimDevice\DimDevice.Inputs[OLE DB Destination Input].Columns[DeviceType]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="DeviceType"
+                      externalMetadataColumnId="Package\Populate DimDevice\DimDevice.Inputs[OLE DB Destination Input].ExternalColumns[DeviceType]"
+                      lineageId="Package\Populate DimDevice\Merge Join 3.Outputs[Merge Join Output].Columns[DeviceType]" />
+                    <inputColumn
+                      refId="Package\Populate DimDevice\DimDevice.Inputs[OLE DB Destination Input].Columns[Id]"
+                      cachedDataType="i8"
+                      cachedName="Id"
+                      externalMetadataColumnId="Package\Populate DimDevice\DimDevice.Inputs[OLE DB Destination Input].ExternalColumns[DeviceKey]"
+                      lineageId="Package\Populate DimDevice\Merge Join 3.Outputs[Merge Join Output].Columns[Id]" />
+                    <inputColumn
+                      refId="Package\Populate DimDevice\DimDevice.Inputs[OLE DB Destination Input].Columns[ModelName]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="ModelName"
+                      externalMetadataColumnId="Package\Populate DimDevice\DimDevice.Inputs[OLE DB Destination Input].ExternalColumns[Model]"
+                      lineageId="Package\Populate DimDevice\Merge Join 3.Outputs[Merge Join Output].Columns[ModelName]" />
+                    <inputColumn
+                      refId="Package\Populate DimDevice\DimDevice.Inputs[OLE DB Destination Input].Columns[VendorName]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="VendorName"
+                      externalMetadataColumnId="Package\Populate DimDevice\DimDevice.Inputs[OLE DB Destination Input].ExternalColumns[Vendor]"
+                      lineageId="Package\Populate DimDevice\Merge Join 3.Outputs[Merge Join Output].Columns[VendorName]" />
+                  </inputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Populate DimDevice\DimDevice.Inputs[OLE DB Destination Input].ExternalColumns[DeviceKey]"
+                      dataType="i8"
+                      name="DeviceKey" />
+                    <externalMetadataColumn
+                      refId="Package\Populate DimDevice\DimDevice.Inputs[OLE DB Destination Input].ExternalColumns[DeviceName]"
+                      dataType="wstr"
+                      length="50"
+                      name="DeviceName" />
+                    <externalMetadataColumn
+                      refId="Package\Populate DimDevice\DimDevice.Inputs[OLE DB Destination Input].ExternalColumns[DeviceType]"
+                      dataType="wstr"
+                      length="50"
+                      name="DeviceType" />
+                    <externalMetadataColumn
+                      refId="Package\Populate DimDevice\DimDevice.Inputs[OLE DB Destination Input].ExternalColumns[Model]"
+                      dataType="wstr"
+                      length="50"
+                      name="Model" />
+                    <externalMetadataColumn
+                      refId="Package\Populate DimDevice\DimDevice.Inputs[OLE DB Destination Input].ExternalColumns[Vendor]"
+                      dataType="wstr"
+                      length="50"
+                      name="Vendor" />
+                  </externalMetadataColumns>
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Populate DimDevice\DimDevice.Outputs[OLE DB Destination Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="OLE DB Destination Error Output"
+                  synchronousInputId="Package\Populate DimDevice\DimDevice.Inputs[OLE DB Destination Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Populate DimDevice\DimDevice.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Populate DimDevice\DimDevice.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Populate DimDevice\DimDevice.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Populate DimDevice\DimDevice.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
               refId="Package\Populate DimDevice\Merge Join"
               componentClassID="Microsoft.MergeJoin"
               contactInfo="Merge Join;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
@@ -1535,167 +1696,6 @@
                           name="InputColumnID">#{Package\Populate DimDevice\Merge Join 3.Inputs[Merge Join Right Input].Columns[ModelName]}</property>
                       </properties>
                     </outputColumn>
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-              </outputs>
-            </component>
-            <component
-              refId="Package\Populate DimDevice\OLE DB Destination"
-              componentClassID="Microsoft.OLEDBDestination"
-              contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
-              description="OLE DB Destination"
-              name="OLE DB Destination"
-              usesDispositions="true"
-              version="4">
-              <properties>
-                <property
-                  dataType="System.Int32"
-                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
-                  name="CommandTimeout">0</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies the name of the database object used to open a rowset."
-                  name="OpenRowset">[dbo].[DimDevice]</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies the variable that contains the name of the database object used to open a rowset."
-                  name="OpenRowsetVariable"></property>
-                <property
-                  dataType="System.String"
-                  description="The SQL command to be executed."
-                  name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the column code page to use when code page information is unavailable from the data source."
-                  name="DefaultCodePage">1252</property>
-                <property
-                  dataType="System.Boolean"
-                  description="Forces the use of the DefaultCodePage property value when describing character data."
-                  name="AlwaysUseDefaultCodePage">false</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the mode used to access the database."
-                  name="AccessMode"
-                  typeConverter="AccessMode">0</property>
-                <property
-                  dataType="System.Boolean"
-                  description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
-                  name="FastLoadKeepIdentity">false</property>
-                <property
-                  dataType="System.Boolean"
-                  description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
-                  name="FastLoadKeepNulls">false</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
-                  name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
-                  name="FastLoadMaxInsertCommitSize">2147483647</property>
-              </properties>
-              <connections>
-                <connection
-                  refId="Package\Populate DimDevice\OLE DB Destination.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[ns-bigd.database.windows.net.Neils-SqlDW.amir]"
-                  connectionManagerRefId="Package.ConnectionManagers[ns-bigd.database.windows.net.Neils-SqlDW.amir]"
-                  description="The OLE DB runtime connection used to access the database."
-                  name="OleDbConnection" />
-              </connections>
-              <inputs>
-                <input
-                  refId="Package\Populate DimDevice\OLE DB Destination.Inputs[OLE DB Destination Input]"
-                  errorOrTruncationOperation="Insert"
-                  errorRowDisposition="FailComponent"
-                  hasSideEffects="true"
-                  name="OLE DB Destination Input">
-                  <inputColumns>
-                    <inputColumn
-                      refId="Package\Populate DimDevice\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[DeviceName]"
-                      cachedDataType="wstr"
-                      cachedLength="50"
-                      cachedName="DeviceName"
-                      externalMetadataColumnId="Package\Populate DimDevice\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[DeviceName]"
-                      lineageId="Package\Populate DimDevice\Merge Join 3.Outputs[Merge Join Output].Columns[DeviceName]" />
-                    <inputColumn
-                      refId="Package\Populate DimDevice\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[DeviceType]"
-                      cachedDataType="wstr"
-                      cachedLength="50"
-                      cachedName="DeviceType"
-                      externalMetadataColumnId="Package\Populate DimDevice\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[DeviceType]"
-                      lineageId="Package\Populate DimDevice\Merge Join 3.Outputs[Merge Join Output].Columns[DeviceType]" />
-                    <inputColumn
-                      refId="Package\Populate DimDevice\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Id]"
-                      cachedDataType="i8"
-                      cachedName="Id"
-                      externalMetadataColumnId="Package\Populate DimDevice\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[DeviceKey]"
-                      lineageId="Package\Populate DimDevice\Merge Join 3.Outputs[Merge Join Output].Columns[Id]" />
-                    <inputColumn
-                      refId="Package\Populate DimDevice\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[ModelName]"
-                      cachedDataType="wstr"
-                      cachedLength="50"
-                      cachedName="ModelName"
-                      externalMetadataColumnId="Package\Populate DimDevice\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Model]"
-                      lineageId="Package\Populate DimDevice\Merge Join 3.Outputs[Merge Join Output].Columns[ModelName]" />
-                    <inputColumn
-                      refId="Package\Populate DimDevice\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[VendorName]"
-                      cachedDataType="wstr"
-                      cachedLength="50"
-                      cachedName="VendorName"
-                      externalMetadataColumnId="Package\Populate DimDevice\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Vendor]"
-                      lineageId="Package\Populate DimDevice\Merge Join 3.Outputs[Merge Join Output].Columns[VendorName]" />
-                  </inputColumns>
-                  <externalMetadataColumns
-                    isUsed="True">
-                    <externalMetadataColumn
-                      refId="Package\Populate DimDevice\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[DeviceKey]"
-                      dataType="i8"
-                      name="DeviceKey" />
-                    <externalMetadataColumn
-                      refId="Package\Populate DimDevice\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[DeviceName]"
-                      dataType="wstr"
-                      length="50"
-                      name="DeviceName" />
-                    <externalMetadataColumn
-                      refId="Package\Populate DimDevice\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[DeviceType]"
-                      dataType="wstr"
-                      length="50"
-                      name="DeviceType" />
-                    <externalMetadataColumn
-                      refId="Package\Populate DimDevice\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Model]"
-                      dataType="wstr"
-                      length="50"
-                      name="Model" />
-                    <externalMetadataColumn
-                      refId="Package\Populate DimDevice\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Vendor]"
-                      dataType="wstr"
-                      length="50"
-                      name="Vendor" />
-                  </externalMetadataColumns>
-                </input>
-              </inputs>
-              <outputs>
-                <output
-                  refId="Package\Populate DimDevice\OLE DB Destination.Outputs[OLE DB Destination Error Output]"
-                  exclusionGroup="1"
-                  isErrorOut="true"
-                  name="OLE DB Destination Error Output"
-                  synchronousInputId="Package\Populate DimDevice\OLE DB Destination.Inputs[OLE DB Destination Input]">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\Populate DimDevice\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
-                      dataType="i4"
-                      lineageId="Package\Populate DimDevice\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
-                      name="ErrorCode"
-                      specialFlags="1" />
-                    <outputColumn
-                      refId="Package\Populate DimDevice\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
-                      dataType="i4"
-                      lineageId="Package\Populate DimDevice\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
-                      name="ErrorColumn"
-                      specialFlags="2" />
                   </outputColumns>
                   <externalMetadataColumns />
                 </output>
@@ -2477,7 +2477,7 @@
           <paths>
             <path
               refId="Package\Populate DimDevice.Paths[Merge Join Output]"
-              endId="Package\Populate DimDevice\OLE DB Destination.Inputs[OLE DB Destination Input]"
+              endId="Package\Populate DimDevice\DimDevice.Inputs[OLE DB Destination Input]"
               name="Merge Join Output"
               startId="Package\Populate DimDevice\Merge Join 3.Outputs[Merge Join Output]" />
             <path
@@ -3875,11 +3875,11 @@
         <NodeLayout
           Size="176,42.6666666666667"
           Id="Package\Populate DimDevice"
-          TopLeft="307.656245415565,138.039476282461" />
+          TopLeft="307.656245415565,137.355265743267" />
         <NodeLayout
           Size="204,42.6666666666667"
           Id="Package\Populate DimGeoLocation"
-          TopLeft="720.312489266507,139.40789736085" />
+          TopLeft="720.312489266507,138.723686821656" />
         <NodeLayout
           Size="226.666666666667,42.6666666666667"
           Id="Package\Populate DimTemperatureAlert"
@@ -3894,14 +3894,14 @@
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,66.9780722392289"
+              EndConnector="0,66.2938617000342"
               Start="0,0"
-              End="0,59.4780722392289">
+              End="0,58.7938617000342">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,59.4780722392289" />
+                    End="0,58.7938617000342" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -4014,18 +4014,18 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 4]"
-          TopLeft="394.628120472608,180.706142949128">
+          TopLeft="394.628120472608,180.021932409933">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,94.6885990766001"
+              EndConnector="0,95.3728096157947"
               Start="0,0"
-              End="0,87.1885990766001">
+              End="0,87.8728096157947">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,87.1885990766001" />
+                    End="0,87.8728096157947" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -4074,26 +4074,26 @@
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="354.066660482685,68.3464933176174"
+              EndConnector="354.066660482685,67.6622827784232"
               Start="0,0"
-              End="354.066660482685,60.8464933176174">
+              End="354.066660482685,60.1622827784232">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,16.3242518659823" />
+                    End="0,16.1207876258593" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,16.3242518659823"
-                    Point2="0,20.3242518659823"
-                    Point3="4,20.3242518659823" />
+                    Point1="0,16.1207876258593"
+                    Point2="0,20.1207876258593"
+                    Point3="4,20.1207876258593" />
                   <mssgle:LineSegment
-                    End="350.066660482685,20.3242518659823" />
+                    End="350.066660482685,20.1207876258593" />
                   <mssgle:CubicBezierSegment
-                    Point1="350.066660482685,20.3242518659823"
-                    Point2="354.066660482685,20.3242518659823"
-                    Point3="354.066660482685,24.3242518659823" />
+                    Point1="350.066660482685,20.1207876258593"
+                    Point2="354.066660482685,20.1207876258593"
+                    Point3="354.066660482685,24.1207876258593" />
                   <mssgle:LineSegment
-                    End="354.066660482685,60.8464933176174" />
+                    End="354.066660482685,60.1622827784232" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -4104,30 +4104,30 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 7]"
-          TopLeft="822.312489266507,182.074564027517">
+          TopLeft="822.312489266507,181.390353488322">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-339.112493736856,93.3201779982116"
+              EndConnector="-339.112493736856,94.0043885374057"
               Start="0,0"
-              End="-339.112493736856,85.8201779982116">
+              End="-339.112493736856,86.5043885374057">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,61.6865330569936" />
+                    End="0,62.168137562737" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,61.6865330569936"
-                    Point2="0,65.6865330569936"
-                    Point3="-4,65.6865330569936" />
+                    Point1="0,62.168137562737"
+                    Point2="0,66.168137562737"
+                    Point3="-4,66.168137562737" />
                   <mssgle:LineSegment
-                    End="-335.112493736856,65.6865330569936" />
+                    End="-335.112493736856,66.168137562737" />
                   <mssgle:CubicBezierSegment
-                    Point1="-335.112493736856,65.6865330569936"
-                    Point2="-339.112493736856,65.6865330569936"
-                    Point3="-339.112493736856,69.6865330569936" />
+                    Point1="-335.112493736856,66.168137562737"
+                    Point2="-339.112493736856,66.168137562737"
+                    Point3="-339.112493736856,70.168137562737" />
                   <mssgle:LineSegment
-                    End="-339.112493736856,85.8201779982116" />
+                    End="-339.112493736856,86.5043885374057" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -4147,29 +4147,29 @@
         <NodeLayout
           Size="98.6666666666667,42.6666666666667"
           Id="Package\Populate DimDateTime\Sort"
-          TopLeft="567,165" />
+          TopLeft="544,169" />
         <NodeLayout
-          Size="174.666666666667,42.6666666666667"
-          Id="Package\Populate DimDateTime\OLE DB Destination"
-          TopLeft="527,251" />
+          Size="149.333333333334,42.6666666666667"
+          Id="Package\Populate DimDateTime\DimTimeTable"
+          TopLeft="523,251" />
         <NodeLayout
-          Size="154.666666666667,42.6666666666667"
-          Id="Package\Populate DimDateTime\OLE DB Source"
-          TopLeft="533,81" />
+          Size="126.666666666667,42.6666666666667"
+          Id="Package\Populate DimDateTime\Timetable"
+          TopLeft="534,81" />
         <EdgeLayout
           Id="Package\Populate DimDateTime.Paths[Sort Output]"
-          TopLeft="615.333333333333,207.666666666667">
+          TopLeft="595.5,211.666666666667">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,43.3333333333333"
+              EndConnector="0,39.3333333333333"
               Start="0,0"
-              End="0,35.8333333333333">
+              End="0,31.8333333333333">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,35.8333333333333" />
+                    End="0,31.8333333333333" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -4180,18 +4180,18 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package\Populate DimDateTime.Paths[OLE DB Source Output]"
-          TopLeft="613.333333333333,123.666666666667">
+          TopLeft="595.333333333333,123.666666666667">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,41.3333333333333"
+              EndConnector="0,45.3333333333333"
               Start="0,0"
-              End="0,33.8333333333333">
+              End="0,37.8333333333333">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,33.8333333333333" />
+                    End="0,37.8333333333333" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -4204,7 +4204,7 @@
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\Populate DimDateTime\OLE DB Destination">
+    design-time-name="Package\Populate DimDateTime\DimTimeTable">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -4217,7 +4217,7 @@
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\Populate DimDateTime\OLE DB Source">
+    design-time-name="Package\Populate DimDateTime\Timetable">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -4235,6 +4235,14 @@
       <GraphLayout
         Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
+          Size="108,42.6666666666667"
+          Id="Package\Populate DimDevice\Sort 6"
+          TopLeft="117.678572974567,383.654134385332" />
+        <NodeLayout
+          Size="108,42.6666666666667"
+          Id="Package\Populate DimDevice\Sort 7"
+          TopLeft="575.297620394933,279.438593469058" />
+        <NodeLayout
           Size="146.666666666667,42.6666666666667"
           Id="Package\Populate DimDevice\DeviceModels"
           TopLeft="462.833334680647,21.1885934690579" />
@@ -4244,6 +4252,10 @@
           TopLeft="201,98" />
         <NodeLayout
           Size="141.333333333334,42.6666666666667"
+          Id="Package\Populate DimDevice\Merge Join 2"
+          TopLeft="564.583334680647,200.688593469058" />
+        <NodeLayout
+          Size="141.333333333334,42.6666666666667"
           Id="Package\Populate DimDevice\Merge Join 3"
           TopLeft="334.16666801398,381.105260135725" />
         <NodeLayout
@@ -4251,45 +4263,33 @@
           Id="Package\Populate DimDevice\Sort 5"
           TopLeft="477.083334680647,115.688593469058" />
         <NodeLayout
-          Size="132,42.6666666666667"
-          Id="Package\Populate DimDevice\Merge Join"
-          TopLeft="100.5,189.75" />
-        <NodeLayout
           Size="141.333333333334,42.6666666666667"
           Id="Package\Populate DimDevice\DeviceTypes"
           TopLeft="185,20" />
         <NodeLayout
-          Size="174.666666666667,42.6666666666667"
-          Id="Package\Populate DimDevice\OLE DB Destination"
+          Size="132,42.6666666666667"
+          Id="Package\Populate DimDevice\DimDevice"
           TopLeft="316.369049722063,472.887841019022" />
         <NodeLayout
           Size="108,42.6666666666667"
           Id="Package\Populate DimDevice\Sort 4"
           TopLeft="683.333334680647,114.438593469058" />
         <NodeLayout
-          Size="108,42.6666666666667"
-          Id="Package\Populate DimDevice\Sort 7"
-          TopLeft="575.297620394933,279.438593469058" />
-        <NodeLayout
-          Size="141.333333333334,42.6666666666667"
-          Id="Package\Populate DimDevice\Merge Join 2"
-          TopLeft="564.583334680647,200.688593469058" />
-        <NodeLayout
-          Size="108,42.6666666666667"
-          Id="Package\Populate DimDevice\Sort 6"
-          TopLeft="117.678572974567,383.654134385332" />
+          Size="132,42.6666666666667"
+          Id="Package\Populate DimDevice\Merge Join"
+          TopLeft="100.5,189.75" />
         <NodeLayout
           Size="98.6666666666667,42.6666666666667"
           Id="Package\Populate DimDevice\Sort"
           TopLeft="34,95" />
         <NodeLayout
-          Size="152,42.6666666666667"
-          Id="Package\Populate DimDevice\DeviceVendors"
-          TopLeft="656.833334680647,20.1885934690579" />
-        <NodeLayout
           Size="117.333333333334,42.6666666666667"
           Id="Package\Populate DimDevice\Devcies"
           TopLeft="28,21" />
+        <NodeLayout
+          Size="152,42.6666666666667"
+          Id="Package\Populate DimDevice\DeviceVendors"
+          TopLeft="656.833334680647,20.1885934690579" />
         <EdgeLayout
           Id="Package\Populate DimDevice.Paths[Sort Output5]"
           TopLeft="225.678572974567,403.713030593862">
@@ -4616,18 +4616,30 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package\Populate DimDevice.Paths[Merge Join Output]"
-          TopLeft="404.267858868021,423.771926802392">
+          TopLeft="404.833334680647,423.771926802392">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,49.1159142166306"
+              EndConnector="-22.4642849585837,49.1159142166303"
               Start="0,0"
-              End="0,41.6159142166306">
+              End="-22.4642849585837,41.6159142166303">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,41.6159142166306" />
+                    End="0,20.5579571083152" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,20.5579571083152"
+                    Point2="0,24.5579571083152"
+                    Point3="-4,24.5579571083152" />
+                  <mssgle:LineSegment
+                    End="-18.4642849585837,24.5579571083152" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-18.4642849585837,24.5579571083152"
+                    Point2="-22.4642849585837,24.5579571083152"
+                    Point3="-22.4642849585837,28.5579571083152" />
+                  <mssgle:LineSegment
+                    End="-22.4642849585837,41.6159142166303" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -4666,20 +4678,7 @@
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\Populate DimDevice\OLE DB Destination">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Populate DimDevice\DeviceVendors">
+    design-time-name="Package\Populate DimDevice\DimDevice">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -4693,6 +4692,19 @@
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\Populate DimDevice\Devcies">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Populate DimDevice\DeviceVendors">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -4772,7 +4784,7 @@
     design-time-name="Package\Populate DimTemperatureAlert">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="168,42.6666666666667"
           Id="Package\Populate DimTemperatureAlert\TemperatureAlerts"
@@ -4800,9 +4812,7 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -4840,13 +4850,39 @@
       <GraphLayout
         Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
-          Size="166.666666666667,42.6666666666667"
-          Id="Package\Populate FactDhtMeasurements\DhtMeasurements"
-          TopLeft="404,57" />
-        <NodeLayout
           Size="98.6666666666667,42.6666666666667"
           Id="Package\Populate FactDhtMeasurements\Sort"
           TopLeft="446,164" />
+        <NodeLayout
+          Size="188,42.6666666666667"
+          Id="Package\Populate FactDhtMeasurements\FactDhtMeasurements"
+          TopLeft="395,263" />
+        <NodeLayout
+          Size="166.666666666667,42.6666666666667"
+          Id="Package\Populate FactDhtMeasurements\DhtMeasurements"
+          TopLeft="404,57" />
+        <EdgeLayout
+          Id="Package\Populate FactDhtMeasurements.Paths[Sort Output]"
+          TopLeft="492.166666666667,206.666666666667">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,56.3333333333334"
+              Start="0,0"
+              End="0,48.8333333333334">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,48.8333333333334" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
         <EdgeLayout
           Id="Package\Populate FactDhtMeasurements.Paths[OLE DB Source Output]"
           TopLeft="491.333333333333,99.6666666666667">
@@ -4869,49 +4905,11 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="188,42.6666666666667"
-          Id="Package\Populate FactDhtMeasurements\FactDhtMeasurements"
-          TopLeft="412,258" />
-        <EdgeLayout
-          Id="Package\Populate FactDhtMeasurements.Paths[Sort Output]"
-          TopLeft="495.333333333333,206.666666666667">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="10.6666666666668,51.3333333333334"
-              Start="0,0"
-              End="10.6666666666668,43.8333333333334">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,21.6666666666667" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,21.6666666666667"
-                    Point2="0,25.6666666666667"
-                    Point3="4,25.6666666666667" />
-                  <mssgle:LineSegment
-                    End="6.6666666666668,25.6666666666667" />
-                  <mssgle:CubicBezierSegment
-                    Point1="6.6666666666668,25.6666666666667"
-                    Point2="10.6666666666668,25.6666666666667"
-                    Point3="10.6666666666668,29.6666666666667" />
-                  <mssgle:LineSegment
-                    End="10.6666666666668,43.8333333333334" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\Populate FactDhtMeasurements\DhtMeasurements">
+    design-time-name="Package\Populate FactDhtMeasurements\FactDhtMeasurements">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -4924,7 +4922,7 @@
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\Populate FactDhtMeasurements\FactDhtMeasurements">
+    design-time-name="Package\Populate FactDhtMeasurements\DhtMeasurements">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
